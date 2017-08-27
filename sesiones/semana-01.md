@@ -55,7 +55,10 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   está todo en la web y las explicaciones son sólo bajo demanda. Si un
   alumno falta a clase o se incorpora más tarde, tendrá que revisar él
   solo el material y preguntar las dudas en clase o por alguno de los
-  medios indicados anteriormente.  
+  medios indicados anteriormente.
+* Solicitar una tutoría al profesor para aclarar cualquier aspecto que
+  no esté claro y poder comenzar el proyecto que se hará a lo largo
+  del curso. Por la mañana, incluyendo el horario de las prácticas.
 
 ## Material de la asignatura
 
