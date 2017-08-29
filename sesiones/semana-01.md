@@ -46,7 +46,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   "entrega" de objetivos y demás. 
 * El jueves día 21 de septiembre, después del final de la clase, a las
   13:30 y en el aula -1.2, habrá un
-  seminario de media hora sobre ["Pilas, microservicios, arquitecturas con letras griegas y otras dos o tres cosas que quizás no hayas aprendido hasta ahora"](http://www.meetup.com/es-ES/Granada-Geek/events/234060868/). Se ruega a todos los alumnos que hagan lo
+  seminario de media hora sobre ["Pilas, microservicios, arquitecturas con letras griegas y otras dos o tres cosas que quizás no hayas aprendido hasta ahora"](https://www.meetup.com/es-ES/Granada-Geek/events/242919355/). Se ruega a todos los alumnos que hagan lo
   posible por asistir al mismo o conseguir el material una vez
   impartido. Tratándose de un seminario no es obligatorio, pero su
   contenido va a resultar muy útil para el resto de la asignatura.
