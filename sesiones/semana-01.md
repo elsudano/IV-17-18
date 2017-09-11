@@ -14,7 +14,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 3. Vernos las caras.
 4. Explicar la
    [práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
-   de entrega: **jueves 21 de septiembre**, 13:30 de la mañana. 
+   de entrega: **jueves 21 de septiembre**, 13:30. 
 
 
 ## Contenidos
@@ -44,7 +44,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 * Entender el sistema de entrega de objetivos y prácticas/proyecto: *fork* de este repositorio (que
   habrá que actualizar periódicamente) y *pull request* al mismo para
   "entrega" de objetivos y demás. 
-* El jueves día 21 de septiembre, después del final de la clase, a las
+* El martes día 19 de septiembre, después del final de la clase, a las
   13:30 y en el aula -1.2, habrá un
   seminario de media hora sobre ["Pilas, microservicios, arquitecturas con letras griegas y otras dos o tres cosas que quizás no hayas aprendido hasta ahora"](https://www.meetup.com/es-ES/Granada-Geek/events/242919355/). Se ruega a todos los alumnos que hagan lo
   posible por asistir al mismo o conseguir el material una vez
