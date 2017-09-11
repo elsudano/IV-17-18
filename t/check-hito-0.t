@@ -9,7 +9,8 @@ my $repo = Git->repository ( Directory => '.' );
 
 my $diff = $repo->command('diff','HEAD','HEAD^1');
 
-if ( $diff =~ /proyectos\/hito-0.md/ ) { # No veo cómo hacerlo arriba
+SKIP: {
+  skip "No hay envío de proyecto", 5 unless $diff =~ /proyectos\/hito-0.md/;
   my @files = split(/diff --git/,$diff);
   my ($diff_hito_0) = grep( /a\/proyectos\/hito-0.md/, @files);
   my ($url_repo) = ($diff_hito_0 =~ /\n-.+(http\S+)/);
@@ -24,5 +25,7 @@ if ( $diff =~ /proyectos\/hito-0.md/ ) { # No veo cómo hacerlo arriba
   for my $f (qw( README.md .gitignore LICENSE )) {
     isnt( grep( $f, @repo_files), 0, "$f presente" );
   }
-}
+
+};
+
 done_testing();
