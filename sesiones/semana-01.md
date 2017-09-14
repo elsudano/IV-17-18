@@ -16,7 +16,9 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 4. Explicar la
    [práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha
    de entrega: **jueves 21 de septiembre**, 13:30. 
-
+5. Entender la importancia de metodologías ágiles como SCRUM en el
+   desarrollo de proyectos informáticos, incluyendo proyectos de
+   infraestructura. 
 
 ## Contenidos
 
@@ -69,6 +71,8 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 * Solicitar una tutoría al profesor para aclarar cualquier aspecto que
   no lo esté y poder comenzar el proyecto que se hará a lo largo
   del curso. Por la mañana, incluyendo el horario de las prácticas.
+* 12:30, introducción a SCRUM por Luis Castillo Vidal, profesor de
+  DECSAI. 
 
 ## Material de la asignatura
 
