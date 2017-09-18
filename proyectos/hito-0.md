@@ -4,12 +4,13 @@
 Añade debajo enlaces a tu proyecto
 
 
-| Nombre | Enlace |
-| ====== | ====== |
-|   JJ   | https://github.com/JJ/prueba-IC-IV |
-|        |        |
-|        |        |
-|        |        |
-|        |        |
-|        |        |
+| Nombre | Enlace | Otros |
+|:-:|:-:|:-:|
+| ====== | ====== | ====== |
+|   JJ   | https://github.com/JJ/prueba-IC-IV | Comentarios del proyecto |
+|        |        |        |
+|        |        |        |
+|        |        |        |
+|        |        |        |
+|        |        |        |
 
