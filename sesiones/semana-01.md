@@ -77,7 +77,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 ## Material de la asignatura
 
 Todo
-[el material de la asignatura está en GitHub](http://jj.github.io/IV). Se
+[el material de la asignatura está en GitHub](http://jj.github.io/IV). Los ejercicios para cubrir los objetivos son los del [primer tema](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico). Se
 recomienda empezar por el primer tema y los ejercicios de
 autoevaluación correspondientes. También la
 [el hito cero del proyecto](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). 
