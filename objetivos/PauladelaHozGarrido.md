@@ -9,3 +9,5 @@
 7. [x] Detalles y capturas del hito
 8. [x] Investigar de SCRUM, recursos de programación web, y librerias.
 
+
+
