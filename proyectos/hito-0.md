@@ -3,18 +3,8 @@
 
 Añade debajo enlaces a tu proyecto
 
-
-<<<<<<< HEAD
-| Nombre | Enlace | Otros |
-|:-:|:-:|:-:|
-|   JJ   | https://github.com/JJ/prueba-IC-IV | Comentarios del proyecto |
-|        |        |        |
-|        |        |        |
-|        |        |        |
-|        |        |        |
-|        |        |        |
-
 =======
+
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
@@ -26,7 +16,7 @@ Añade debajo enlaces a tu proyecto
 | CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [My Repo](https://github.com/Cerv1/IV-Project) | 0.1 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
-| DE LA TORRE FANIN, CARLOS| | |
+| DE LA TORRE FANIN, CARLOS| [OwnCloudBot](https://github.com/elsudano/OwncloudBot) | 0.1 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
@@ -51,4 +41,3 @@ Añade debajo enlaces a tu proyecto
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.1|
->>>>>>> afd63e223d48b3e594d978b21572799db36af9c9
