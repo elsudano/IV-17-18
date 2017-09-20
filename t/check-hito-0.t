@@ -13,7 +13,13 @@ SKIP: {
   skip "No hay envío de proyecto", 5 unless $diff =~ /proyectos\/hito-0.md/;
   my @files = split(/diff --git/,$diff);
   my ($diff_hito_0) = grep( /a\/proyectos\/hito-0.md/, @files);
-  my ($url_repo) = ($diff_hito_0 =~ /\n-.+(http\S+)/);
+  my $url_repo;
+  if ( $diff_hito_0 =~ /\(http/ ) {
+    ($url_repo) = ($diff_hito_0 =~ /\((http\S+)\)/);
+  } else {
+    ($url_repo) = ($diff_hito_0 =~ /\n-.+(http\S+)/);
+  }
+  say $url_repo;
   isnt($url_repo,"","El cambio tiene un URL");
   like($url_repo,qr/github.com/,"El URL es de GitHub");
   my ($name) = ($url_repo=~ /github.com\/\S+\/(\w+)/);
