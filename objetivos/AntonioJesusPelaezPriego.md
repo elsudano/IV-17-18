@@ -7,3 +7,10 @@
 5. [X] Vernos las caras.
 6. [X] Explicar la práctica 0. Fecha de entrega: jueves 21 de septiembre, 13:30.
 7. [X] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura
+8. [X] Creación de par de claves y subida de clave pública a GitHub.
+9. [X] Configuración correcta del nombre y correo electrónico para que aparezca en los commits.
+10. [X] Edición del perfil en GitHub para que aparezca nombre completo y ciudad, así como universidad.
+11. [X] Creación repositorios para [proyecto](https://github.com/ajpelaez/IV-Proyecto) y [ejercicios](https://github.com/ajpelaez/IV-Ejercicios).
+12. [X] Elección de licencia para el repositorio del proyecto.
+13. [X] Fork de IV-17-18, edición de hito0 y creación fichero con los objetivos
+14. [X] Realizado pull request después de pull upstream master.
