@@ -84,4 +84,4 @@ autoevaluación correspondientes. También la
 
 ## Siguientes sesiones
 
-[Segunda semana](2-semana.md)
+[Segunda semana](semana-02.md)

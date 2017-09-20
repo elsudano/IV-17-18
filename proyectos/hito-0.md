@@ -12,14 +12,14 @@ Añade debajo enlaces a tu proyecto
 | CARMONA OLIVA, ALVARO| | |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN| | |
+| CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [My Repo](https://github.com/Cerv1/IV-Project) | 0.1 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
 | DE LA TORRE FANIN, CARLOS| | |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
-| FERNANDEZ MILLAN, FRANCISCO| | |
+| FERNANDEZ MILLAN, FRANCISCO|[PracticasIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
 | GALLARDO MOLINA, ANDRES JOSE| | |
 | GOMEZ BAENA, JOSE|[Repo](https://github.com/josegob/IV-1718-Proyectos) |0.5|
 | HERNANDEZ CAÑAVERAS, JUAN| | |
@@ -28,7 +28,7 @@ Añade debajo enlaces a tu proyecto
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| | |
 | MENGIBAR RODRIGUEZ, MIRIAM| | |
-| MOLINA GOMEZ, PABLO| | |
+| MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) | 0.1 |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
@@ -37,6 +37,6 @@ Añade debajo enlaces a tu proyecto
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MONTES, DAVID| | |
-| TOLEDANO DELGADO, CARLOS| | |
+| TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.1|
