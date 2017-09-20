@@ -9,6 +9,6 @@
 - [x] Vernos las caras.
 
 - [x] Explicar la
-   [práctica 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Fecha de entrega: **jueves 21 de septiembre**, 13:30.
+   [práctica 0](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/hito0).
 
 - [x] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
