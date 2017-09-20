@@ -20,4 +20,8 @@
 
 - [x] Fork del repositorio JJ/IV-17-18 y añadido de los objetivos.
 
+- [ ] Creación del repositorio de proyecto para IV
+
+- [ ] Creación del repositorio de autoevaluación para IV
+
 - [ ] Rellenado de la tabla del hito 0.
