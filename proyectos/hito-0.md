@@ -3,7 +3,6 @@
 
 Añade debajo enlaces a tu proyecto
 
-=======
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
