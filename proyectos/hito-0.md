@@ -30,13 +30,9 @@ Añade debajo enlaces a tu proyecto
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.1 |
 | MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) | 0.1 |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
-<<<<<<< HEAD
 | MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.1 |
-=======
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
-| MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
->>>>>>> b939562d4a6890ffdb637f75bbd179c12d498bb5
 | PARRA GAROFANO, PABLO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS|[Repo Proyecto](https://github.com/ajpelaez/IV-Proyecto)| 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
