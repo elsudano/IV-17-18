@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace |
 | ====== | ====== |
-|   JJ   | https://github.com/jimcase/IV-17-8|
+|   JJ   | git@github.com:jimcase/IV-17-18.git|
 |        |        |
 |        |        |
 |        |        |
