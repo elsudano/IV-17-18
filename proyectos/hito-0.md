@@ -3,21 +3,21 @@
 
 Añade debajo enlaces a tu proyecto
 
+=======
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CASADO VERGARA, MANUEL| | |
-| CASO ONZAIN, JAIME | [Repositorio](https://github.com/jimcase/IV-17-18-Proyectos) | 0.1 |
-| CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.2 |
+| CARMONA OLIVA, ALVARO| | |
+| CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [My Repo](https://github.com/Cerv1/IV-Project) | 0.1 |
-| DE LA HOZ GARRIDO, PAULA MARIA| | |
-| DE LA TORRE FANIN, CARLOS| | |
 | DEL RIO AGUILAR, ALBERTO|[ProyectoIV](https://github.com/berbus/proyectoIV) | 0.1 |
+| DE LA HOZ GARRIDO, PAULA MARIA|[MappingInternetCensorship](https://github.com/terceranexus6/MappingInternetCensorship) | 0.1 |
+| DE LA TORRE FANIN, CARLOS| [OwnCloudBot](https://github.com/elsudano/OwncloudBot) | 0.1 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO|[Proyecto](https://github.com/mariofg92/ivmario) | 0.1 |
 | FERNANDEZ MILLAN, FRANCISCO|[PracticasIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
@@ -34,7 +34,7 @@ Añade debajo enlaces a tu proyecto
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | PARRA GAROFANO, PABLO| | |
-| PELAEZ PRIEGO, ANTONIO JESUS| | |
+| PELAEZ PRIEGO, ANTONIO JESUS|[Repo Proyecto](https://github.com/ajpelaez/IV-Proyecto)| 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| https://github.com/Koltharius/ProyectoIV | 0.1 |
 | SANCHEZ MONTES, DAVID| [ProyectoIV](https://github.com/Anixo/ProyectoIV) | 0.1 |
