@@ -35,7 +35,7 @@ Añade debajo enlaces a tu proyecto
 | PARRA GAROFANO, PABLO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
-| SANCHEZ JIMENEZ, DAVID| | |
+| SANCHEZ JIMENEZ, DAVID| https://github.com/Koltharius/ProyectoIV | 0.1 |
 | SANCHEZ MONTES, DAVID| | |
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
