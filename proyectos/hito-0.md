@@ -11,8 +11,8 @@ Añade debajo enlaces a tu proyecto
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| | |
-| CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
-| CASO ONZAIN, JAIME| | |
+| CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.2 |
+| CASO ONZAIN, JAIME| [Repositorio](https://github.com/jimcase/IV-17-18-Proyectos) | 0.1 |
 | CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [My Repo](https://github.com/Cerv1/IV-Project) | 0.1 |
 | DEL RIO AGUILAR, ALBERTO|[ProyectoIV](https://github.com/berbus/proyectoIV) | 0.1 |
