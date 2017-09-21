@@ -10,7 +10,7 @@ my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD','HEAD^1');
 
 SKIP: {
-  skip "No hay envío de proyecto", 5 unless $diff =~ /proyectos\/hito-0.md/;
+  skip "No hay envío de proyecto", 5 unless $diff =~ /a\/proyectos\/hito-0.md/;
   my @files = split(/diff --git/,$diff);
   my ($diff_hito_0) = grep( /a\/proyectos\/hito-0.md/, @files);
   my $url_repo;
