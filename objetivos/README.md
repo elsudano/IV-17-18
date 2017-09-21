@@ -18,7 +18,7 @@ Recuerda que tienes que mantener tu copia actualizada con el
 repositorio original. Para ello, define un repositorio *upstream* de
 esta forma
 
-	git remote add upstream git@github.com:JJ/IV16-17.git
+	git remote add upstream https://github.com/JJ/IV-17-18.git
 
 y antes de ponerte a trabajar con tu *fork* local del repositorio
 recuerda hacer
