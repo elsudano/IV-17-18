@@ -5,7 +5,7 @@
 
 3. [X] Editar el perfil en GitHub para que aparezca nombre completo y ciudad, así como universidad y avatar.
 
-4. [X] Fork de IV-17-18
+4. [X] Fork del repositorio original IV-17-18.
 
 5. [X] Creación del repositorio para el proyecto.
 
