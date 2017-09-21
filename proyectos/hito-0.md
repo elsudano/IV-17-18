@@ -18,7 +18,7 @@ Añade debajo enlaces a tu proyecto
 | DE LA TORRE FANIN, CARLOS| | |
 | DEL RIO AGUILAR, ALBERTO|[ProyectoIV](https://github.com/berbus/proyectoIV) | 0.1 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
-| FERNANDEZ GOMEZ, MARIO| | |
+| FERNANDEZ GOMEZ, MARIO|[Proyecto](https://github.com/mariofg92/ivmario) | 0.1 |
 | FERNANDEZ MILLAN, FRANCISCO|[PracticasIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
 | GALLARDO MOLINA, ANDRES JOSE|[ProyectoIV](https://github.com/Maverick94/IV_Proyecto)| 0.1 |
 | GOMEZ BAENA, JOSE|[Repo](https://github.com/josegob/IV-1718-Proyectos) |0.5|
