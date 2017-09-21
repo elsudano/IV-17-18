@@ -9,8 +9,8 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO| | |
-| CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
+| CARMONA OLIVA, ALVARO|[Proyecto_IV](https://github.com/alvarocarmona6/ProyectoIV) |0.1 |
+| CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [My Repo](https://github.com/Cerv1/IV-Project) | 0.1 |
@@ -27,7 +27,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| | |
-| MENGIBAR RODRIGUEZ, MIRIAM| | |
+| MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.1 |
 | MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) | 0.1 |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO| | |
