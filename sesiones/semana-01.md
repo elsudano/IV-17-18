@@ -1,7 +1,7 @@
 # Semana del 14 al 21 de septiembre de 2017
 
 Agradeceré que contestes la
-[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLScrXjpKIEqnrJ356npEWbdARvy00HnNT3EB3EUwU8cfExvqtw/viewform). Se
+[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSdAMl7eMKZ3eW-SxXwQMrXBjSy8oJUVBDqfzdX1tzmvHxZrGA/viewform). Se
 recuerda al alumno que es su responsabilidad atender a clase o
 enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros. 
 
@@ -77,11 +77,11 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 ## Material de la asignatura
 
 Todo
-[el material de la asignatura está en GitHub](http://jj.github.io/IV). Se
+[el material de la asignatura está en GitHub](http://jj.github.io/IV). Los ejercicios para cubrir los objetivos son los del [primer tema](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico). Se
 recomienda empezar por el primer tema y los ejercicios de
 autoevaluación correspondientes. También la
 [el hito cero del proyecto](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). 
 
 ## Siguientes sesiones
 
-[Segunda semana](2-semana.md)
+[Segunda semana](semana-02.md)
