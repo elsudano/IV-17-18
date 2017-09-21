@@ -22,6 +22,4 @@
 
 - [x] Creación del repositorio de proyecto para IV
 
-- [ ] Creación del repositorio de autoevaluación para IV
-
-- [ ] Rellenado de la tabla del hito 0.
+- [x] Rellenado de la tabla del hito 0.
