@@ -9,7 +9,8 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO|[Proyecto_IV](https://github.com/alvarocarmona6/ProyectoIV) |0.1 |
+| CASADO VERGARA, MANUEL| | |
+| CASO ONZAIN, JAIME | [Repositorio](https://github.com/jimcase/IV-17-18-Proyectos) | 0.1 |
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.2 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
@@ -18,12 +19,12 @@ Añade debajo enlaces a tu proyecto
 | DE LA TORRE FANIN, CARLOS| | |
 | DEL RIO AGUILAR, ALBERTO|[ProyectoIV](https://github.com/berbus/proyectoIV) | 0.1 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
-| FERNANDEZ GOMEZ, MARIO| | |
+| FERNANDEZ GOMEZ, MARIO|[Proyecto](https://github.com/mariofg92/ivmario) | 0.1 |
 | FERNANDEZ MILLAN, FRANCISCO|[PracticasIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
 | GALLARDO MOLINA, ANDRES JOSE|[ProyectoIV](https://github.com/Maverick94/IV_Proyecto)| 0.1 |
 | GOMEZ BAENA, JOSE|[Repo](https://github.com/josegob/IV-1718-Proyectos) |0.5|
 | HERNANDEZ CAÑAVERAS, JUAN|[Proyecto-IV](https://github.com/MagicJHC10/Proyecto-IV) |0.1 |
-| LIÑAN VILLAFRANCA, LUIS| | |
+| LIÑAN VILLAFRANCA, LUIS|[Proyecto IV](https://github.com/lulivi/bot-calendario-telegram)|0.1|
 | LOPEZ ACEITUNO, MANUEL| [Repositorio](https://github.com/manuellopez92/ProyectoIV) | 0.1 |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV)| 0.3 |
@@ -40,3 +41,5 @@ Añade debajo enlaces a tu proyecto
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.1|
+
+
