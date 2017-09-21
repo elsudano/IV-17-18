@@ -9,8 +9,8 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO| | |
-| CASADO VERGARA, MANUEL| | |
+| CARMONA OLIVA, ALVARO|[Proyecto_IV](https://github.com/alvarocarmona6/ProyectoIV) |0.1 |
+| CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.2 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN|[IV_Proyecto](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [My Repo](https://github.com/Cerv1/IV-Project) | 0.1 |
@@ -35,7 +35,7 @@ Añade debajo enlaces a tu proyecto
 | PARRA GAROFANO, PABLO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
-| SANCHEZ JIMENEZ, DAVID| | |
+| SANCHEZ JIMENEZ, DAVID| https://github.com/Koltharius/ProyectoIV | 0.1 |
 | SANCHEZ MONTES, DAVID| | |
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
