@@ -38,7 +38,7 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ JIMENEZ, DAVID| https://github.com/Koltharius/ProyectoIV | 0.1 |
 | SANCHEZ MONTES, DAVID| [ProyectoIV](https://github.com/Anixo/ProyectoIV) | 0.1 |
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
-| TORRES MORENO, FRANCISCO MANUEL| | |
+| TORRES MORENO, FRANCISCO MANUEL| [ProyectoIV] https://github.com/pctmoreno/Proyecto-IV-17-18 |0.1|
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.1|
 
 
