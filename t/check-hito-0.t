@@ -13,6 +13,7 @@ SKIP: {
   skip "No hay envío de proyecto", 5 unless $diff =~ /a\/proyectos\/hito-0.md/;
   my @files = split(/diff --git/,$diff);
   my ($diff_hito_0) = grep( /a\/proyectos\/hito-0.md/, @files);
+  say "Tratando diff\n\t$diff_hito_0";
   my $url_repo;
   if ( $diff_hito_0 =~ /\(http/ ) {
     ($url_repo) = ($diff_hito_0 =~ /\((http\S+)\)/);
@@ -28,6 +29,7 @@ SKIP: {
   `git clone $url_repo $repo_dir`;
   my $student_repo =  Git->repository ( Directory => $repo_dir );
   my @repo_files = $student_repo->command("ls-files");
+  say "Ficheros\n\t→", join( "\t→", @repo_files);
   for my $f (qw( README.md .gitignore LICENSE )) {
     isnt( grep( $f, @repo_files), 0, "$f presente" );
   }

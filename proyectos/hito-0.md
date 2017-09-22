@@ -22,7 +22,7 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ MILLAN, FRANCISCO|[PracticasIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
 | GALLARDO MOLINA, ANDRES JOSE|[ProyectoIV](https://github.com/Maverick94/IV_Proyecto)| 0.1 |
 | GOMEZ BAENA, JOSE|[Repo](https://github.com/josegob/IV-1718-Proyectos) |0.5|
-| HERNANDEZ CAÑAVERAS, JUAN|[Proyecto-IV](https://github.com/MagicJHC10/Proyecto-IV) |0.1 |
+| HERNANDEZ CAÑAVERAS, JUAN|[Proyecto-IV](https://github.com/MagicJHC10/Proyecto-IV) |0.2 |
 | LIÑAN VILLAFRANCA, LUIS|[Proyecto IV](https://github.com/lulivi/bot-calendario-telegram)|0.1|
 | LOPEZ ACEITUNO, MANUEL| [Repositorio](https://github.com/manuellopez92/ProyectoIV) | 0.1 |
 | MARTIN QUIROS, JUAN ANTONIO|[Proyecto IV](https://github.com/marquirj0/ProyecoSkull) |0.1 |
