@@ -31,7 +31,7 @@ Añade debajo enlaces a tu proyecto
 | MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) | 0.1 |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
-| MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.1 |
+| MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.2 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
 | PELAEZ PRIEGO, ANTONIO JESUS|[Repo Proyecto](https://github.com/ajpelaez/IV-Proyecto)| 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
