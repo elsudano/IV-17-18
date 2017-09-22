@@ -14,3 +14,4 @@
 12. [X] Elección de licencia para el repositorio del proyecto.
 13. [X] Fork de IV-17-18, edición de hito0 y creación fichero con los objetivos
 14. [X] Realizado pull request después de pull upstream master.
+15. [X] Corrección de fallos comentados por el profesor.
