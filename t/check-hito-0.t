@@ -7,7 +7,7 @@ use v5.14; # For say
 
 my $repo = Git->repository ( Directory => '.' );
 
-my $diff = $repo->command('diff','HEAD','HEAD^1');
+my $diff = $repo->command('diff','HEAD^1','HEAD');
 
 SKIP: {
   skip "No hay envío de proyecto", 5 unless $diff =~ /a\/proyectos\/hito-0.md/;
