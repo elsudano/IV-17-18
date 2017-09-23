@@ -1,7 +1,7 @@
 # Objetivos Alberto del Río
 
 ## Repositorio de ejercicios
-Enlace a ejercicios [aquí](https://github.com/berbus/ejerciciosIV/)
+Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejerciciosIV/)
 
 - [ ] Ejercicios del hito 1 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%201/ejercicios.md)).
 
