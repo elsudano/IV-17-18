@@ -1,6 +1,6 @@
-## Primera semana del 14 al 21 de septiembre de 2017
+# Primera semana del 14 al 21 de septiembre de 2017
 
-# Objetivos a cubrir en la sesión
+## Objetivos a cubrir en la sesión
 
 1. [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2. [X] Darse de alta y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la asignatura.
@@ -9,9 +9,9 @@
 5. [X] Explicar la práctica 0. Fecha de entrega: jueves 21 de septiembre, 13:30.
 6. [X] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura
 
-## Segunda semana del 21 al 28 de septiembre de 2017
+# Segunda semana del 21 al 28 de septiembre de 2017
 
-# Objetivos a cubrir en la sesión
+## Objetivos a cubrir en la sesión
 
 
 1. [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
@@ -22,7 +22,7 @@
 6. [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 
-# Otros objetivos
+## Otros objetivos
 
 * [X] Al final de la clase, haber entregado el hito 0. 
 * [X] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. Si necesitas ayuda para instalarlo, todos los
