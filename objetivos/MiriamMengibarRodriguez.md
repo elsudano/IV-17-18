@@ -27,7 +27,7 @@ Míriam Mengíbar Rodríguez
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 ## Otros objetivos
-- [x] Realizar los ejercicios del tema 1.
+- [x] Realizar los [ejercicios del tema 1.](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema1.md)
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. 
 - [x] Al final de la clase, haber entregado el hito 0.
 - [x] Manejar de forma básica la línea de órdenes de Linux
