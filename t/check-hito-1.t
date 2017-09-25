@@ -62,13 +62,13 @@ SKIP: {
   for my $i (@closed_issues) {
     my ($event_id) = ($i->{'url'} =~ m{issues/(\d+)});
     my @events = $issue->events($event_id);
-    cmp_ok( $#events, ">=", 1, "Tiene al menos dos eventos");
+    cmp_ok( $#events, ">=", 1, "El issue tiene al menos dos eventos");
     my @milestoned = grep(($_->{'event'} eq 'milestoned'), @events);
-    cmp_ok( $#milestoned, ">=", 0, "El evento está en un hito");
+    cmp_ok( $#milestoned, ">=", 0, "El issue está asignado a un hito");
     my ($closing_event) = grep(($_->{'event'} eq 'closed'), @events);
     my $closing_commit = $repos->commit($closing_event->{'commit_id'});
-    is($closing_commit->{'author'}->{'login'}, $user, "Autor commit correcto");
-    like($closing_commit->{'commit'}->{'message'}, qr/(closes|fixes)/, "Cierre desde commit")
+    is($closing_commit->{'author'}->{'login'}, $user, "Autor del commit es el correcto");
+    like($closing_commit->{'commit'}->{'message'}, qr/(closes|fixes)/, "El issue se ha cerrado desde commit")
   }
 };
 
