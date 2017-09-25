@@ -7,7 +7,6 @@ Añade debajo enlaces a tu proyecto
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | | |
-| JJ |https://github.com/JJ/prueba-IC-IV | |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| | |

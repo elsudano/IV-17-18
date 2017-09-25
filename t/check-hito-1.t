@@ -31,7 +31,7 @@ SKIP: {
   isnt($url_repo,"","El envío incluye un URL");
   like($url_repo,qr/github.com/,"El URL es de GitHub");
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
-  my $repo_dir = "/tmp/$name";
+  my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
     mkdir($repo_dir);
     `git clone $url_repo $repo_dir`;
@@ -45,8 +45,19 @@ SKIP: {
 
   # Comprobar hitos e issues
   my $issue = $github->issue;
-  my @hitos = $issue->milestones($user,$name,{ state => 'open' });
+  $issue->set_default_user_repo($user,$name);
+  my @hitos = $issue->milestones({ state => 'open' });
   cmp_ok( $#hitos, ">=", 3, "Número de hitos correcto");
+  my @closed_issues = $issue->repos_issues({ state => "closed"});
+  cmp_ok( $#closed_issues, ">=", 0, "Hay algún issue cerrado");
+  for my $i (@closed_issues) {
+    my ($event_id) = ($i->{'url'} =~ m{issues/(\d+)});
+    my @events = $issue->events($event_id);
+    cmp_ok( $#events, ">=", 1, "Tiene al menos dos eventos");
+    my ($closing_event) = grep(($_->{'event'} eq 'closed'), @events);
+    my $closing_commit = $closing_event->{'commit_id'};
+    
+  }
 };
 
 done_testing();
