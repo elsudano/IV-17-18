@@ -14,6 +14,7 @@ my $diff_regex = qr/a\/proyectos\/$hito_file/;
 my $github;
 
 if ($ENV{'GH_TOKEN'} ) {
+  say "Usando token GH";
   $github = Net::GitHub->new( access_token => $ENV{'GH_TOKEN'} );
 } else {
   $github = Net::GitHub->new();
