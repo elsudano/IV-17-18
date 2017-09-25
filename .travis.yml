@@ -5,6 +5,6 @@ language: perl
 perl:
   - "5.16"
 before_install:
-install: cpanm Test::More Test::Harness Git
+install: cpanm Test::More Test::Harness Git Net::GitHub
 script: prove -c
 
