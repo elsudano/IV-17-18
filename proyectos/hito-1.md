@@ -11,7 +11,6 @@ Añade debajo enlaces a tu proyecto
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| | |
 | CASADO VERGARA, MANUEL| | |
-| JJ | https://github.com/JJ/prueba-IC-IV | |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
 | CERVILLA ORTEGA, SERGIO| | |
