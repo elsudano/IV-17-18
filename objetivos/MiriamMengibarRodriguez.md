@@ -14,3 +14,21 @@ Míriam Mengíbar Rodríguez
 ## Objetivos adicionales
 
 - [x] Crear un repositorio de *Github pages* para la documentación.
+
+# Hito 1
+
+## Objetivos semana del 21 al 28 de septiembre de 2017
+
+- [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
+- [x] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
+- [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+- [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
+- [x] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
+- [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+## Otros objetivos
+- [x] Realizar los [ejercicios del tema 1.](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema1.md)
+- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. 
+- [x] Al final de la clase, haber entregado el hito 0.
+- [x] Manejar de forma básica la línea de órdenes de Linux
+ 
