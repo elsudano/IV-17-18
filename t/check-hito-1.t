@@ -11,7 +11,13 @@ my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
 my $hito_file = "hito-".HITO.".md";
 my $diff_regex = qr/a\/proyectos\/$hito_file/;
-my $github = Net::GitHub->new(); # No pass
+my $github;
+
+if ($ENV{'GH_TOKEN'} ) {
+  $github = Net::GitHub->new( access_token => $ENV{'GH_TOKEN'} );
+} else {
+  $github = Net::GitHub->new();
+}
 
 SKIP: {
   skip "No hay envío de proyecto", 5 unless $diff =~ $diff_regex;
