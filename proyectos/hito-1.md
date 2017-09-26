@@ -1,4 +1,4 @@
-# Hito 0
+# Hito 1
 
 
 Añade debajo enlaces a tu proyecto
@@ -21,13 +21,13 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| | |
 | GALLARDO MOLINA, ANDRES JOSE| | |
-| GOMEZ BAENA, JOSE| | |
+| GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| | |
-| MENGIBAR RODRIGUEZ, MIRIAM| | |
+| MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
 | MUÑOZ GARCIA, ALVARO| | |
