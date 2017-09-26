@@ -23,7 +23,7 @@ SKIP: {
   if ( $adds[0] =~ /\(http/ ) {
     ($url_repo) = ($adds[0] =~ /\((http\S+)\)/);
   } else {
-    ($url_repo) = ($adds[0] =~ /\n-.+(http\S+)/s);
+    ($url_repo) = ($adds[0] =~ /^\+.+(http\S+)/s);
   }
   say $url_repo;
   isnt($url_repo,"","El cambio tiene un URL");
