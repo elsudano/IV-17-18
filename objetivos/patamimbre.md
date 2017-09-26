@@ -12,6 +12,7 @@ ciudad, así como universidad.
 
 ##Objetivos de la sesión 02
 
+0. [X] He asistido a clase de prácticas el día 26/09/2017
 1. [] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 2. [] Comprender las técnicas de cálculo del coste de amortización de un
 equipo informático y aplicarlo al cálculo del coste de uso de un
