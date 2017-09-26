@@ -1,6 +1,8 @@
-# Objetivos primera sesión
+# Objetivos sesión 1
 
-## Objetivos hito 0
+## Semana a partir del 14 de septiembre de 2017
+
+### Objetivos hito 0
 
 - [X] Entender la metodología docente y su evaluación
 - [X] Darse de alta y comprender el funcionamiento básico de GitHub. Dar alta en el grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma
@@ -13,12 +15,16 @@
 - [X] Actualizar el repositorio de github con el local
 - [X] Solicitar pull request
 
-## Objetivos hito 1
+## Semana a partir del 21 de septiembre de 2017
+
+### Objetivos hito 1
 
 - [X] Asistir a clase de "prácticas" el día 26 de Septiembre
 - [X] Leer y entender el guión del hito 1
 - [X] Preguntar dudas sobre hito al profesor
 - [X] Decidir que infraestructura se va a usar
-- [ ] Describir de que irá el proyecto y qué usaremos 
+- [ ] Realizar los ejercicios de la asignatura
+- [ ] Describir de que irá el proyecto y qué usaremos
+  
 
 
