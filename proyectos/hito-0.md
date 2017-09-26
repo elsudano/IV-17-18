@@ -8,7 +8,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
 | ALVAREZ GARROTE, LUIS | | |
-| ANAYA ORTIZ, JUAN|[Repositorio IV](https://github.com/JaoChaos/IV1718) | 0.1 |
+| ANAYA ORTIZ, JUAN|[Repositorio IV](https://github.com/JaoChaos/IV1718) | 0.2 |
 | CARMONA OLIVA, ALVARO|[Proyecto_IV](https://github.com/alvarocarmona6/ProyectoIV) |0.1 |
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.2 |
 | CASO ONZAIN, JAIME| [Repositorio](https://github.com/jimcase/IV-17-18-Proyectos) | 0.1 |
