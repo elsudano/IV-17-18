@@ -14,7 +14,7 @@ my $diff_regex = qr/a\/proyectos\/$hito_file/;
 SKIP: {
   skip "No hay envío de proyecto", 5 unless $diff =~ $diff_regex;
   my @files = split(/diff --git/,$diff);
-  my ($diff_hito_0) = grep( $diff_regex, @files);
+  my ($diff_hito_0) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito_0";
   my @lines = split("\n",$diff_hito_0);
   my @adds = grep(/^\+[^+]/,@lines);
@@ -23,7 +23,7 @@ SKIP: {
   if ( $adds[0] =~ /\(http/ ) {
     ($url_repo) = ($adds[0] =~ /\((http\S+)\)/);
   } else {
-    ($url_repo) = ($adds[0] =~ /\n-.+(http\S+)/s);
+    ($url_repo) = ($adds[0] =~ /^\+.+(http\S+)/s);
   }
   say $url_repo;
   isnt($url_repo,"","El cambio tiene un URL");
