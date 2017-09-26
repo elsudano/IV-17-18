@@ -1,10 +1,10 @@
 # Hito 1
 
 
-A�ade debajo enlaces a tu proyecto
+Añade debajo enlaces a tu proyecto
 
 
-| Nombre | Enlace | Versi�n |
+| Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
@@ -22,17 +22,17 @@ A�ade debajo enlaces a tu proyecto
 | FERNANDEZ MILLAN, FRANCISCO| | |
 | GALLARDO MOLINA, ANDRES JOSE| | |
 | GOMEZ BAENA, JOSE| | |
-| HERNANDEZ CA�AVERAS, JUAN| | |
-| LI�AN VILLAFRANCA, LUIS| | |
+| HERNANDEZ CAÑAVERAS, JUAN| | |
+| LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
-| MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.1 |
+| MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.2 |
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
-| MU�OZ GARCIA, ALVARO| | |
+| MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| MU�OZ GARCIA, ALVARO| | |
+| MUÑOZ GARCIA, ALVARO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
