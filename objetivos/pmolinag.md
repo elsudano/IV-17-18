@@ -28,4 +28,4 @@
 10. [X] Aprender a instalar software libre en Linux.
 11. [X] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 12. [X] Asistencia a prácticas.
-13. [X] [autoevaluación](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion1.md)
+13. [X] [autoevaluación1](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion1.md)
