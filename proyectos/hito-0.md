@@ -31,14 +31,14 @@ Añade debajo enlaces a tu proyecto
 | MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) | 0.1 |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
-| MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.1 |
+| MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.2 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
-| PELAEZ PRIEGO, ANTONIO JESUS|[Repo Proyecto](https://github.com/ajpelaez/IV-Proyecto)| 0.1 |
-| QUINTANA PADILLA, DIEGO ALBERTO| | |
+| PELAEZ PRIEGO, ANTONIO JESUS|[Repo Proyecto](https://github.com/ajpelaez/IV-Proyecto)| 0.2 |
+| QUINTANA PADILLA, DIEGO ALBERTO|[ProyectoIV](https://github.com/dialpa/IV-Proyecto)|0.1|
 | SANCHEZ JIMENEZ, DAVID| https://github.com/Koltharius/ProyectoIV | 0.1 |
 | SANCHEZ MONTES, DAVID| [ProyectoIV](https://github.com/Anixo/ProyectoIV) | 0.1 |
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
-| TORRES MORENO, FRANCISCO MANUEL| | |
+| TORRES MORENO, FRANCISCO MANUEL| [ProyectoIV](https://github.com/pctmoreno/Proyecto-IV-17-18) |0.1|
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.1|
 
 
