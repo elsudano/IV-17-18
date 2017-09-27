@@ -21,10 +21,10 @@
 9. [X] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
 10. [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-[Ejercicio 1](https://github.com/ainokila/TrabajosIV/hito1/ejercicio01.md)
-[Ejercicio 2](https://github.com/ainokila/TrabajosIV/hito1/ejercicio02.md)
-[Ejercicio 3](https://github.com/ainokila/TrabajosIV/hito1/ejercicio03.md)
-[Ejercicio 4](https://github.com/ainokila/TrabajosIV/hito1/ejercicio04.md)
-[Ejercicio 5](https://github.com/ainokila/TrabajosIV/hito1/ejercicio05.md)
-[Ejercicio 6](https://github.com/ainokila/TrabajosIV/hito1/ejercicio06.md)
+[Ejercicio 1](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio01.md)
+[Ejercicio 2](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio02.md)
+[Ejercicio 3](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio03.md)
+[Ejercicio 4](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio04.md)
+[Ejercicio 5](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio05.md)
+[Ejercicio 6](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio06.md)
 
