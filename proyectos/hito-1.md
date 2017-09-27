@@ -9,7 +9,7 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO|[Repo](https://github.com/alvarocarmona6/ProyectoIV) |0.4|
+| CARMONA OLIVA, ALVARO| [Repo](https://github.com/alvarocarmona6/ProyectoIV) | 0.5 |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
