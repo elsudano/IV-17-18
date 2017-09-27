@@ -1,10 +1,10 @@
 # Hito 1
 
 
-Aï¿½ade debajo enlaces a tu proyecto
+Añade debajo enlaces a tu proyecto
 
 
-| Nombre | Enlace | Versiï¿½n |
+| Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
@@ -21,18 +21,18 @@ Aï¿½ade debajo enlaces a tu proyecto
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| | |
 | GALLARDO MOLINA, ANDRES JOSE| | |
-| GOMEZ BAENA, JOSE| | |
-| HERNANDEZ CAï¿½AVERAS, JUAN| | |
-| LIï¿½AN VILLAFRANCA, LUIS| | |
+| GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
+| HERNANDEZ CAÑAVERAS, JUAN| | |
+| LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
-| MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.1 |
+| MEDINA FACAL, RAFAEL| [Repo](https://github.com/Medfac9/Proyecto_IV) | 0.3 |
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
-| MUï¿½OZ GARCIA, ALVARO| | |
+| MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| MUï¿½OZ GARCIA, ALVARO| | |
+| MUÑOZ GARCIA, ALVARO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
@@ -40,3 +40,5 @@ Aï¿½ade debajo enlaces a tu proyecto
 | TOLEDANO DELGADO, CARLOS| | |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| | |
+
+
