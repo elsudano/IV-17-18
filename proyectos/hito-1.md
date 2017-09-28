@@ -13,7 +13,7 @@ Añade debajo enlaces a tu proyecto
 | CASTRO MONTES, GERMAN| | |
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
-| DE LA HOZ GARRIDO, PAULA MARIA| [Mapping IC](https://github.com/terceranexus6/MappingInternetCensorship) | 0.5 |
+| DE LA HOZ GARRIDO, PAULA MARIA| [Mapping I C](https://github.com/terceranexus6/MappingInternetCensorship) | 0.5 |
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
