@@ -20,7 +20,7 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.10 |
 | GALLARDO MOLINA, ANDRES JOSE| | |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
-| HERNANDEZ CAÑAVERAS, JUAN|[Repositorio](https://github.com/MagicJHC10/Proyecto-IV) |0.2|
+| HERNANDEZ CAÑAVERAS, JUAN|[Repositorio](https://github.com/MagicJHC10/Proyecto-IV) |0.3|
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL|[Repositorio](https://github.com/manuellopez92/ProyectoIV) |0.1 |
 | MARTIN QUIROS, JUAN ANTONIO| | |
