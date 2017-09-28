@@ -1,7 +1,7 @@
 # Hito 1
 
 
-A�ade debajo enlaces a tu proyecto
+Añade debajo enlaces a tu proyecto
 
 
 | Nombre | Enlace | Versi�n |
