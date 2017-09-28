@@ -20,4 +20,4 @@
 - [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 - [x] Usar el sistema de control de fuentes `git` para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 - [x] Repositorio individual creado y entregado correctamente, con la licencia correcta y con todos los commits hechos por el propio alumno y respetando las buenas prácticas que se iniciaron en el hito 0.
-- [ ] Documentación correcta que explique qué proyecto se ha elegido y por qué, y qué pasos se van a llevar a cabo para hacerlo. Esta descripción debe mostrar claramente que se ha comprendido el objetivo de la asignatura y que el proyecto corresponde a este objetivo.
+- [x] Documentación correcta que explique qué proyecto se ha elegido y por qué, y qué pasos se van a llevar a cabo para hacerlo. Esta descripción debe mostrar claramente que se ha comprendido el objetivo de la asignatura y que el proyecto corresponde a este objetivo.
