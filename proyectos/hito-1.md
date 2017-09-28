@@ -11,13 +11,8 @@ Añade debajo enlaces a tu proyecto
 | CASADO VERGARA, MANUEL|[Repo](https://github.com/cvlolo/IV-Proyecto/) | 0.3 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
-<<<<<<< HEAD
-| CERVILLA ORTEGA, SERGIO| | |
-| DEL RIO AGUILAR, ALBERTO| [Enlace](https://github.com/berbus/proyectoIV.git)| 0.2 |
-=======
 | CERVILLA ORTEGA, SERGIO| [Telegram RSS](https://github.com/Cerv1/IV-Project) | 0.3 |
-| DEL RIO AGUILAR, ALBERTO| | |
->>>>>>> d8ab39ace8607035267142f6a5f80c8eeaafed9c
+| DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.1 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
