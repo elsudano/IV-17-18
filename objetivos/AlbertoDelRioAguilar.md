@@ -5,6 +5,8 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 
 - [X] Ejercicios del hito 1 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%201/ejercicios.md)).
 
+- [ ] Ejercicios del hito 2 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%202/ejercicios2.md))
+
 ## Práctica 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
 - [X] **Página del repositorio en GitHub Pages** \-> [Página aquí](https://berbus.github.io/proyectoIV/) <\-.
