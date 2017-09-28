@@ -14,7 +14,7 @@ Añade debajo enlaces a tu proyecto
 | CERVILLA ORTEGA, SERGIO| [Telegram RSS](https://github.com/Cerv1/IV-Project) | 0.3 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
-| DE LA TORRE FANIN, CARLOS| [OwnCloudBot](https://github.com/elsudano/OwncloudBot) | 0.1 |
+| DE LA TORRE FANIN, CARLOS| [OwnCloudBot](https://github.com/elsudano/OwncloudBot) | 0.2 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.10 |
