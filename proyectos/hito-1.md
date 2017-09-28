@@ -4,7 +4,7 @@
 Añade debajo enlaces a tu proyecto
 
 
-| Nombre | Enlace | Versi�n |
+| Nombre | Enlace | Versión |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
@@ -34,9 +34,11 @@ Añade debajo enlaces a tu proyecto
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
 | PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.1 |
-| QUINTANA PADILLA, DIEGO ALBERTO|[ProyectoIV](https://github.com/dialpa/IV-Proyecto)|0.1|
+| QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MONTES, DAVID| | |
 | TOLEDANO DELGADO, CARLOS| | |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| | |
+
+
