@@ -4,15 +4,20 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALCALA MARTINEZ, ANTONIO | | |
+| ALCALA MARTINEZ, ANTONIO | [Repo](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.3 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| [Repo](https://github.com/alvarocarmona6/ProyectoIV) | 0.6 |
 | CASADO VERGARA, MANUEL|[Repo](https://github.com/cvlolo/IV-Proyecto/) | 0.3 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
+<<<<<<< HEAD
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| [Enlace](https://github.com/berbus/proyectoIV.git)| 0.2 |
+=======
+| CERVILLA ORTEGA, SERGIO| [Telegram RSS](https://github.com/Cerv1/IV-Project) | 0.3 |
+| DEL RIO AGUILAR, ALBERTO| | |
+>>>>>>> d8ab39ace8607035267142f6a5f80c8eeaafed9c
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
@@ -20,7 +25,7 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.10 |
 | GALLARDO MOLINA, ANDRES JOSE| | |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
-| HERNANDEZ CAÑAVERAS, JUAN| | |
+| HERNANDEZ CAÑAVERAS, JUAN|[Repositorio](https://github.com/MagicJHC10/Proyecto-IV) |0.3|
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL|[Repositorio](https://github.com/manuellopez92/ProyectoIV) |0.1 |
 | MARTIN QUIROS, JUAN ANTONIO| | |
