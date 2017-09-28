@@ -10,6 +10,7 @@
 
 ## Semana del 21 al 28 de septiembre de 2017
 
+  - [x] Tener aprobado el hito 0 de proyecto y haber alcanzado el 80% de los objetivos del tema introductorio tras haber realizado los ejercicios propuestos.
   - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
   - [x] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
   - [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
