@@ -26,3 +26,7 @@
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 - [x] Realizar los [ejercicios del hito 1](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_1.md) .
 - [x] Añadir nociones básicas al readme del proyecto.
+
+## Otros objetivos
+
+- [x] Hacer un [pull request](https://github.com/mirismr/ejerciciosIV/pull/8) a un compañero
