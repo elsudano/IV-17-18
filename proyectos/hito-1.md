@@ -36,4 +36,4 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ MONTES, DAVID| [Repositorio](https://github.com/Anixo/ProyectoIV) | 0.3 |
 | TOLEDANO DELGADO, CARLOS| [Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.9 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
-| VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.2|
+| VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.2.1|
