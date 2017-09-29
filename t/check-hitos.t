@@ -9,12 +9,12 @@ use v5.14; # For say
 
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
-my $hito_file = "hito-".HITO.".md";
-my $diff_regex = qr/a\/proyectos\/$hito_file/;
+my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
 my $github;
 
 SKIP: {
-  skip "No hay envío de proyecto", 5 unless $diff =~ $diff_regex;
+  my ($this_hito) = ($diff =~ $diff_regex);
+  skip "No hay envío de proyecto", 5 unless $this_hito;
   my @files = split(/diff --git/,$diff);
   my ($diff_hito_1) = grep( /$diff_regex/, @files);
   say "Tratando diff\n\t$diff_hito_1";
