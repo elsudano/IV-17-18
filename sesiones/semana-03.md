@@ -46,7 +46,7 @@ una aplicación.
 
 * *Teoría*: [Desarrollo basado en pruebas (TDD)](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas)
 
-* *Práctica*: [Guión del segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI). Plazo para la entrega de este primer hito: **00:00 del 14 de octubre de 2017**. 
+* *Práctica*: [Guión del segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI). Plazo para la entrega de este primer hito: **00:00 del 17 de octubre de 2017**. 
 
 ## Siguiente semana
 
