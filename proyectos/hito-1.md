@@ -9,12 +9,16 @@ Añade debajo enlaces a tu proyecto
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| [Repo](https://github.com/alvarocarmona6/ProyectoIV) | 0.6 |
 | CASADO VERGARA, MANUEL|[Repo](https://github.com/cvlolo/IV-Proyecto/) | 0.3 |
+<<<<<<< HEAD
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA| [MappingInternetCensorship](https://github.com/terceranexus6/MappingInternetCensorship) | 0.4 |
 | DE LA TORRE FANIN, CARLOS| | |
+=======
+| CASO ONZAIN, JAIME | [Repositorio](https://github.com/jimcase/IV-17-18-Proyectos) | 0.4 |
+>>>>>>> 2e5f49e5ac3b5e417053286495e9bff349af21c1
 | CASTRO MONTES, GERMAN | [Repo](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [Telegram RSS](https://github.com/Cerv1/IV-Project) | 0.3 |
 | DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.2 |
