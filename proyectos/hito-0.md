@@ -4,7 +4,6 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| JJ | https://github.com/JJ/prueba-IC-IV | |
 | ALCALA MARTINEZ, ANTONIO | [Repositorio](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.1 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
