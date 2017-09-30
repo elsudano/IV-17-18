@@ -1,9 +1,9 @@
 # Objetivos Alberto del Río
 
 ## Repositorio de ejercicios
-Enlace a ejercicios [aquí](https://github.com/berbus/ejerciciosIV/)
+Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejerciciosIV/)
 
-- [ ] Ejercicios hito 1.
+- [X] Ejercicios del hito 1 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%201/ejercicios.md)).
 
 ## Práctica 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
@@ -21,6 +21,6 @@ Enlace a ejercicios [aquí](https://github.com/berbus/ejerciciosIV/)
 - [X] Tener Linux instalado.
 - [X] Manejar de forma básica la línea de órdenes.
 - [X] Aprender a instalar software libre en Linux.
-- [ ] Entender el concepto de de sistema de ficheros virtual usado en Linux.
-- [ ] Haber usado git para hacer check-in en clase.
+- [X] Entender el concepto de de sistema de ficheros virtual usado en Linux.
+- [X] Haber usado git para hacer check-in en clase.
 - [ ] Revisar algún ejercicio de un compañero.

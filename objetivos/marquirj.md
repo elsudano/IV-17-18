@@ -1,3 +1,8 @@
+## Enlace a mi archivo de ejercicios
+
+[Ejercicios](https://github.com/marquirj/ejercicioIV-17-17/blob/master/ejercicioT1.md)
+
+
 # Sesión 1
 
 ## Semana a partir del 14 de septiembre de 2017
@@ -21,12 +26,10 @@
 
 ### Hito 1
 
-- [X] Asistir a clase de "prácticas" el día 26 de Septiembre
+- [X] Asistir a clase de "prácticas" el día 28 de Septiembre
 - [X] Leer y entender el guión del hito 1
 - [X] Preguntar dudas sobre hito al profesor
 - [X] Decidir que infraestructura se va a usar
 - [X] Realizar los ejercicios de la asignatura correspondientes a la [semana 2](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-02.md)
 - [X] Pensar y describir más profundamente de que irá el proyecto y qué se usará para su despliegue
   
-
-
