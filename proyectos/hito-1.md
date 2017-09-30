@@ -13,7 +13,7 @@ Añade debajo enlaces a tu proyecto
 | CASTRO MONTES, GERMAN | [Repo](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [Telegram RSS](https://github.com/Cerv1/IV-Project) | 0.3 |
 | DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.2 |
-| DE LA HOZ GARRIDO, PAULA MARIA| | |
+| DE LA HOZ GARRIDO, PAULA MARIA| [MIC](https://github.com/terceranexus6/MappingInternetCensorship) | 0.6 |
 | DE LA TORRE FANIN, CARLOS| [OwnCloudBot](https://github.com/elsudano/OwncloudBot) | 0.2 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO|[UGRCalendar](https://github.com/mariofg92/ivmario) | 0.2 |
