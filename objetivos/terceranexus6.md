@@ -26,3 +26,4 @@
 4. [ ] Probar todas las herramientas que tengo planeadas aunque sea a un nivel básico
 5. [ ] Cubrir issues
 6. [ ] Pasar tests
+7. [ ] Incluir travis en mi propio proyecto 
