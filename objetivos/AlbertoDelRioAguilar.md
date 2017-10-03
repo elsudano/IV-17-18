@@ -28,15 +28,15 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [ ] Revisar algún ejercicio de un compañero.
 
 ## Práctica 2
-- [ ] Entender el conceto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
-- [ ] comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
-- [ ] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+- [X] Entender el conceto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 
-- [ ] Haber entregado el primer hito del proyecto al final de la semana.
-- [ ] Entender el segundo hito del proyecto.
+- [X] Haber entregado el primer hito del proyecto al final de la semana.
+- [X] Entender el segundo hito del proyecto.
 - [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 - [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
-- [ ] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
-- [ ] Comprender el papel de las build tools o herramientas de automatización.
+- [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [X] Comprender el papel de las build tools o herramientas de automatización.
