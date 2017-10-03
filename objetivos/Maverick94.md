@@ -20,3 +20,4 @@
 8. [x] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 9. [x] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 10. [x] Entender el funcionamiento de gh-pages
+11. [x] Realización de los ejercicios del [Tema 1](https://github.com/Maverick94/EjerciciosIV/tree/master/tema1)

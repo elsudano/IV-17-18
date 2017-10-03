@@ -3,22 +3,23 @@
 use Test::More;
 use Git;
 use LWP::Simple;
-use constant HITO => 1;
+use File::Slurper qw(read_text);
+
 
 use v5.14; # For say
 
 my $repo = Git->repository ( Directory => '.' );
 my $diff = $repo->command('diff','HEAD^1','HEAD');
-my $hito_file = "hito-".HITO.".md";
-my $diff_regex = qr/a\/proyectos\/$hito_file/;
+my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
 my $github;
 
 SKIP: {
-  skip "No hay envío de proyecto", 5 unless $diff =~ $diff_regex;
+  my ($this_hito) = ($diff =~ $diff_regex);
+  skip "No hay envío de proyecto", 5 unless defined $this_hito;
   my @files = split(/diff --git/,$diff);
-  my ($diff_hito_1) = grep( /$diff_regex/, @files);
-  say "Tratando diff\n\t$diff_hito_1";
-  my @lines = split("\n",$diff_hito_1);
+  my ($diff_hito) = grep( /$diff_regex/, @files);
+  say "Tratando diff\n\t$diff_hito";
+  my @lines = split("\n",$diff_hito);
   my @adds = grep(/^\+[^+]/,@lines);
   is( $#adds, 0, "Añade sólo una línea");
   my $url_repo;
@@ -43,15 +44,22 @@ SKIP: {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
-  # Comprobar hitos e issues
-  cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
-
-  my @closed_issues =  closed_issues($user, $name);
-  cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). "issues cerrado(s)");
-  for my $i (@closed_issues) {
-    my ($issue_id) = ($i =~ /issue_(\d+)/);
+  if ( $this_hito > 0 ) { # Comprobar milestones y eso 
+    cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
     
-    is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
+    my @closed_issues =  closed_issues($user, $name);
+    cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
+    for my $i (@closed_issues) {
+      my ($issue_id) = ($i =~ /issue_(\d+)/);
+      
+      is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
+    }
+  }
+
+  if ( $this_hito > 1 ) { # Comprobar milestones y eso 
+    isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
+    my $README =  read_text( "$repo_dir/README.md"),;
+    like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/);
   }
 };
 
