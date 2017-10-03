@@ -33,3 +33,8 @@ actividades de la asignatura.
 * [X] Aprender a instalar software libre en Linux.
 * [X] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 * [] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero.
+
+
+## Sesión 3
+
+* [X] He asistido a clase de prácticas el dia 03/10/2017
