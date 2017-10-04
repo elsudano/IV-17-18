@@ -27,8 +27,7 @@ Terminamos con
 y comenzamos con el
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS). 
 
-Continuamos con
-el
+Continuamos con el
 [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),
 que se entrega el  **00:00 del 17 de octubre de 2017**. 
 
