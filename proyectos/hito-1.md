@@ -1,14 +1,14 @@
 # Hito 0
 
 
-Añade debajo enlaces a tu proyecto
+AÃ±ade debajo enlaces a tu proyecto
 
 
-| Nombre | Enlace | Versión |
+| Nombre | Enlace | VersiÃ³n |
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
-| ANAYA ORTIZ, JUAN| | |
+| ANAYA ORTIZ, JUAN|https://github.com/JaoChaos/ejerciciosIV|0.2|
 | CARMONA OLIVA, ALVARO| | |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
@@ -22,17 +22,17 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ MILLAN, FRANCISCO| | |
 | GALLARDO MOLINA, ANDRES JOSE| | |
 | GOMEZ BAENA, JOSE| | |
-| HERNANDEZ CAÑAVERAS, JUAN| | |
-| LIÑAN VILLAFRANCA, LUIS| | |
+| HERNANDEZ CAÃ‘AVERAS, JUAN| | |
+| LIÃ‘AN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| | |
 | MENGIBAR RODRIGUEZ, MIRIAM| | |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
-| MUÑOZ GARCIA, ALVARO| | |
+| MUÃ‘OZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| MUÑOZ GARCIA, ALVARO| | |
+| MUÃ‘OZ GARCIA, ALVARO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
