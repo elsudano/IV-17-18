@@ -8,7 +8,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
-| ANAYA ORTIZ, JUAN|https://github.com/JaoChaos/ejerciciosIV|0.2|
+| ANAYA ORTIZ, JUAN|https://github.com/JaoChaos/ejerciciosIV|0.1|
 | CARMONA OLIVA, ALVARO| | |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
