@@ -1,8 +1,6 @@
 # Hito 0
 
-
 Añade debajo enlaces a tu proyecto
-
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
@@ -25,7 +23,7 @@ Añade debajo enlaces a tu proyecto
 | HERNANDEZ CAÑAVERAS, JUAN|[Proyecto-IV](https://github.com/MagicJHC10/Proyecto-IV) |0.2 |
 | LIÑAN VILLAFRANCA, LUIS|[Proyecto IV](https://github.com/lulivi/bot-calendario-telegram)|0.1|
 | LOPEZ ACEITUNO, MANUEL| [Repositorio](https://github.com/manuellopez92/ProyectoIV) | 0.1 |
-| MARTIN QUIROS, JUAN ANTONIO|[Proyecto IV](https://github.com/marquirj0/ProyecoSkull) |0.1 |
+| MARTIN QUIROS, JUAN ANTONIO|[Proyecto IV](https://github.com/marquirj/ProyectoSkull) |0.2 |
 | MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV)| 0.3 |
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.1 |
 | MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) | 0.1 |
@@ -34,7 +32,7 @@ Añade debajo enlaces a tu proyecto
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.2 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
 | PELAEZ PRIEGO, ANTONIO JESUS|[Repo Proyecto](https://github.com/ajpelaez/IV-Proyecto)| 0.2 |
-| QUINTANA PADILLA, DIEGO ALBERTO| | |
+| QUINTANA PADILLA, DIEGO ALBERTO|[ProyectoIV](https://github.com/dialpa/IV-Proyecto)|0.1|
 | SANCHEZ JIMENEZ, DAVID| https://github.com/Koltharius/ProyectoIV | 0.1 |
 | SANCHEZ MONTES, DAVID| [ProyectoIV](https://github.com/Anixo/ProyectoIV) | 0.1 |
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
