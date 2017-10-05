@@ -3,7 +3,8 @@
 use Test::More;
 use Git;
 use LWP::Simple;
-use constant HITO => 1;
+use File::Slurper qw(read_text);
+
 
 use v5.14; # For say
 
@@ -47,12 +48,18 @@ SKIP: {
     cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
     
     my @closed_issues =  closed_issues($user, $name);
-    cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). "issues cerrado(s)");
+    cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
     for my $i (@closed_issues) {
       my ($issue_id) = ($i =~ /issue_(\d+)/);
       
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
+  }
+
+  if ( $this_hito > 1 ) { # Comprobar milestones y eso 
+    isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
+    my $README =  read_text( "$repo_dir/README.md"),;
+    like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/);
   }
 };
 
