@@ -25,7 +25,22 @@
 
 ## Otros objetivos
 - [x] [Ejercicios Tema 1.](https://github.com/franfermi/Ejercicios_IV/tree/master/Tema1)
-- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura. 
+- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 - [x] Al final de la clase, haber entregado el hito 0.
-- [x] Manejar de forma básica la línea de órdenes de Linux. 
-- [x] Cambiar nombre a fichero de objetivos. 
+- [x] Manejar de forma básica la línea de órdenes de Linux.
+- [x] Cambiar nombre a fichero de objetivos.
+
+## Sesión 3 (Semana del 28 de septiembre al 5 de octubre de 2017)
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+## Otros objetivos
+- [x] Haber entregado el primer hito del proyecto al final de la semana.
+- [x] Entender el segundo hito del proyecto.
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
