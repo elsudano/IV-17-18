@@ -11,12 +11,18 @@
 
 ## Objetivos a cubrir en la sesión (26/09/2017)
 
-1. [X] Asistir a clase 
+1. [X] Asistir a clase
 2. [X] Buscar documentación de Flask y PostgreSQL
-3. [ ] Modificar el README del proyecto para añadir detalles técnicos 
-4. [ ] Crear nuevo milestone
+3. [X] Modificar el README del proyecto para añadir detalles técnicos
+4. [X] Crear nuevo milestone
 5. [X] Editar gitignore para añadir python
 
 
+## Objetivos a cubrir en la sesión (05/10/2017)
 
-
+1. [X] Asistir a clase
+2. [ ] Integrar la clase en python
+3. [ ] Actualizar gh-pages
+4. [ ] Probar todas las herramientas que tengo planeadas aunque sea a un nivel básico
+5. [ ] Cubrir issues
+6. [ ] Pasar tests
