@@ -29,6 +29,8 @@
 - [X] Pensar y describir más profundamente de que irá el proyecto y qué se usará para su despliegue
   
 
+# Sesión 3
+
 ## Semana a partir del 28 de septiembre de 2017
 
 ### Hito 2
