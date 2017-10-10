@@ -29,4 +29,12 @@
 - [X] Pensar y describir más profundamente de que irá el proyecto y qué se usará para su despliegue
   
 
+## Semana a partir del 28 de septiembre de 2017
 
+### Hito 2
+
+- [X] Entender el concepto de integración continua
+- [X] Buscar información y entender las herramientas para la integración contínua del lenguaje a usar en el proyecto. (python)
+- [ ] Realizar los ejercicios del de la asignatura correspondientes a la [semana 3](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-03.md)
+- [X] Escribir funciones y testearlas en local en el proyecto personal
+- [ ] Añadir esos tests para que los pase automaticamente Travis
