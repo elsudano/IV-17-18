@@ -20,7 +20,6 @@
 5. [X] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
     Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
    
-        
 ### Otros objetivos
 
 1. [X] Al final de la clase, haber entregado el hito 0.
@@ -30,6 +29,37 @@
 5. [X] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 6. [X] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 7. [X] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
+
+## Sesión 3 Tercera semana, del 28 de septiembre al 5 de octubre de 2017
+
+### Objetivos de la semana
+
+1. [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+
+2. [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+3. [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+
+4. [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+### Otros objetivos
+
+1. [X] Haber entregado el primer hito del proyecto al final de la semana.
+
+2. [X] Entender el segundo hito del proyecto
+
+3. [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+
+4. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+
+5. [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+
+6. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+
+7. [X] Comprender el papel de las build tools o herramientas de automatización.
+
+        
+
 
 ## Objetivos de teoria
 
