@@ -37,4 +37,15 @@ actividades de la asignatura.
 
 ## Sesión 3
 
-* [X] He asistido a clase de prácticas el dia 03/10/2017
+* [X] He asistido a clase de prácticas el día 03/10/2017
+* [X] Programar parte del escaner de puertos
+* [] Añadir ruby a gitignore
+* [X] Realizar algunos ejercicios
+
+## Sesión 4
+* [X] He asistido a clase de prácticas el día 10/10/2017
+* [X] Comprobar que el escaner funciona
+* [] Salida como JSON del escaner
+* [] Comprobar que ARGV es una IP
+* [] Terminar ejercicios teoría
+* [] Terminar Hito 2
