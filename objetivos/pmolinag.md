@@ -43,4 +43,4 @@
 9. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
 10. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 11. [X] Comprender el papel de las build tools o herramientas de automatización.
-12. [X] [Autoevaluacion1](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion2.md)
+12. [X] [Autoevaluacion2](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion2.md)
