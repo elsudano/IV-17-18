@@ -63,7 +63,7 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 
 - [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 
-##Otros objetivos
+## Otros objetivos
 
 - [x] Haber entregado el primer hito del proyecto al final de la semana.
 
@@ -79,7 +79,7 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 
 - [x] Comprender el papel de las build tools o herramientas de automatización.
 
-##Cuarta semana, comienza el 5 de octubre
+## Cuarta semana, comienza el 5 de octubre
 
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
