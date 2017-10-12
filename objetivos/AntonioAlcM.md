@@ -51,17 +51,17 @@ recurso.
 
 - [x] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana.  
 
-- [ ] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)  
+- [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)  
 
 - [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.  
 
-- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de otra forma.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de otra forma.
 
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 
-- [ ] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 
-- [ ] Comprender el papel de las *build tools* o herramientas de automatización.
+- [x] Comprender el papel de las *build tools* o herramientas de automatización.
 
 ### Ejercicios tema 2
 [Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema2)
