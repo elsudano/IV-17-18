@@ -2,15 +2,15 @@
 
 Añade debajo enlaces a tu proyecto
 
-| Nombre | Enlace | Versión |
-|--------|--------|---------|
-| ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/ProyectoIV17-18) |0.2 |
-| ALVAREZ GARROTE, LUIS | | |
-| ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO| | |
-| CASADO VERGARA, MANUEL| | |
-| CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN|[repositorio](https://github.com/patamimbre/IV_Proyecto) | 0.1 |
+| Nombre                   | Enlace                                   | Versión |
+| ------------------------ | ---------------------------------------- | ------- |
+| ALCALA MARTINEZ, ANTONIO | [proyecto](https://github.com/AntonioAlcM/ProyectoIV17-18) | 0.2     |
+| ALVAREZ GARROTE, LUIS    |                                          |         |
+| ANAYA ORTIZ, JUAN        |                                          |         |
+| CARMONA OLIVA, ALVARO    |                                          |         |
+| CASADO VERGARA, MANUEL   |                                          |         |
+| CASO ONZAIN, JAIME       |                                          |         |
+| CASTRO MONTES, GERMAN|[repositorio](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.4 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
