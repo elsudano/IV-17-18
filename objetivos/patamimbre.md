@@ -47,5 +47,9 @@ actividades de la asignatura.
 * [X] Comprobar que el escaner funciona
 * [] Salida como JSON del escaner
 * [] Comprobar que ARGV es una IP
-* [] Terminar ejercicios teoría
-* [] Terminar Hito 2
+* [X] Terminar ejercicios teoría
+* [X] Crear Gemfile con dependencias del proyecto 
+* [X] Crear Rakefile
+* [] Editar test de parser.rb
+* [X] Integración continua en el proyecto
+* [] Comprobar que el Hito 2 está bien
