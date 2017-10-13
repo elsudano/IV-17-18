@@ -38,6 +38,3 @@ Añade debajo enlaces a tu proyecto
 | TOLEDANO DELGADO, CARLOS| | |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| | |
-
-
-[repositorio](https://github.com/patamimbre/IV_Proyecto)
