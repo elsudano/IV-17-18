@@ -33,3 +33,23 @@ actividades de la asignatura.
 * [X] Aprender a instalar software libre en Linux.
 * [X] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 * [] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero.
+
+
+## Sesión 3
+
+* [X] He asistido a clase de prácticas el día 03/10/2017
+* [X] Programar parte del escaner de puertos
+* [] Añadir ruby a gitignore
+* [X] Realizar algunos ejercicios
+
+## Sesión 4
+* [X] He asistido a clase de prácticas el día 10/10/2017
+* [X] Comprobar que el escaner funciona
+* [] Salida como JSON del escaner
+* [] Comprobar que ARGV es una IP
+* [X] Terminar ejercicios teoría
+* [X] Crear Gemfile con dependencias del proyecto 
+* [X] Crear Rakefile
+* [] Editar test de parser.rb
+* [X] Integración continua en el proyecto
+* [] Comprobar que el Hito 2 está bien

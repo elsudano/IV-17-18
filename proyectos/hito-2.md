@@ -4,13 +4,13 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALCALA MARTINEZ, ANTONIO | | |
+| ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/ProyectoIV17-18) |0.2 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| | |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN| | |
+| CASTRO MONTES, GERMAN| [repositorio](https://github.com/patamimbre/IV_Proyecto)| 0.3 |
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.4 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
@@ -18,7 +18,7 @@ Añade debajo enlaces a tu proyecto
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| | |
-| GALLARDO MOLINA, ANDRES JOSE| | |
+| GALLARDO MOLINA, ANDRES JOSE| [Repo](https://github.com/Maverick94/IV_Proyecto) | 0.1 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
@@ -31,7 +31,7 @@ Añade debajo enlaces a tu proyecto
 | MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | MUÑOZ GARCIA, ALVARO| | |
-| PELAEZ PRIEGO, ANTONIO JESUS| | |
+| PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MONTES, DAVID| | |
