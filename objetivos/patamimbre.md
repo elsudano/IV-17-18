@@ -39,17 +39,19 @@ actividades de la asignatura.
 
 * [X] He asistido a clase de prácticas el día 03/10/2017
 * [X] Programar parte del escaner de puertos
-* [] Añadir ruby a gitignore
 * [X] Realizar algunos ejercicios
 
 ## Sesión 4
 * [X] He asistido a clase de prácticas el día 10/10/2017
 * [X] Comprobar que el escaner funciona
-* [] Salida como JSON del escaner
-* [] Comprobar que ARGV es una IP
 * [X] Terminar ejercicios teoría
 * [X] Crear Gemfile con dependencias del proyecto 
 * [X] Crear Rakefile
-* [] Editar test de parser.rb
 * [X] Integración continua en el proyecto
-* [] Comprobar que el Hito 2 está bien
+* [X] Comprobar que el Hito 2 pasa los test
+
+## Sesión 5
+* [] Añadir ruby a gitignore
+* [] Salida como JSON del escaner
+* [] Comprobar que ARGV es una IP
+* [] Editar test de parser.rb
