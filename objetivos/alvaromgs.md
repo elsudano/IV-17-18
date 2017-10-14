@@ -49,7 +49,7 @@ una aplicación.
 * [X] Entender los ficheros de *requisitos* y su utilidad en las
   infraestructuras virtuales. 
 
-## Otros objetivos
+### Otros objetivos
 
 * [X] Haber entregado el
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
