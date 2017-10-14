@@ -1,3 +1,9 @@
+## [Ejercicios propuestos](https://github.com/alvaromgs/ejerciciosIV-1718)
+
+### [Ejercicios del primer tema](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/tema1.md)
+
+### [Ejercicios del segundo tema](https://github.com/alvaromgs/ejerciciosIV-1718/blob/master/tema2.md)
+
 ## Primera semana, del 14 al 21 de septiembre de 2017
 
 * [X] Creación de par de claves y subida de clave pública a GitHub.
