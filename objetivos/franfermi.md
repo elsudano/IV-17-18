@@ -44,3 +44,21 @@
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las build tools o herramientas de automatización.
+
+## Sesión 4 (Semana del 5 de octubre al 12 de octubre)
+
+- [x] Terminar la configuración de los sistemas de integración continua
+- [x] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+## Otros objetivos
+
+- [x] [Ejercicios Tema 2.](https://github.com/franfermi/Ejercicios_IV/tree/master/Tema2)
+- [x] Entender los errores en la entrega del
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  y corregirlos si es pertinente.
+- [x] Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Asistir al seminario sobre [cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30](https://www.meetup.com/es-ES/preview/Granada-Geek/events/243776993).
+- [x] Tratar de combinar proyectos individuales en un proyecto mayor que
+  se desarrollará usando la metodología SCRUM.
