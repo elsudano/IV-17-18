@@ -39,6 +39,7 @@
 - [X] Haber ido a clase de prácticas todos los días aunque se olvidó hacer el pull request el día que se asistió
 - [X] Haber ido a los seminarios sobre Software Libre y Tests en python impartidos por JJ
 - [X] Buscar información y entender las herramientas para la integración contínua del lenguaje a usar en el proyecto. (python)
-- [ ] Realizar los ejercicios del de la asignatura correspondientes a la [semana 3](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-03.md)
-- [X] Escribir funciones y testearlas en local en el proyecto personal
-- [ ] Añadir esos tests para que los pase automaticamente Travis
+- [X] Buscar información y entender las herramientas "build tools" de python
+- [X] Realizar los ejercicios del de la asignatura correspondientes a la [semana 3](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-03.md)
+- [X] Escribir funciones y testearlas en local en el proyecto personal.
+- [X] Añadir esos tests para que los pase automaticamente Travis.
