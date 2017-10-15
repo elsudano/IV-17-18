@@ -33,7 +33,7 @@ Añade debajo enlaces a tu proyecto
 | PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SANCHEZ MONTES, DAVID| [Repositorio](https://github.com/Anixo/ProyectoIV/tree/master) | 0.1 |
+| SANCHEZ MONTES, DAVID| [Repositorio](https://github.com/Anixo/ProyectoIV) | 0.1 |
 | TOLEDANO DELGADO, CARLOS| | |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.3|
