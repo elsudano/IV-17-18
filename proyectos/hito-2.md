@@ -30,7 +30,6 @@ Añade debajo enlaces a tu proyecto
 | MORENTE GABALDON, ADRIAN| [Repo](https://github.com/adrianmorente/PracticasIV) | 0.3 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| MUÑOZ GARCIA, ALVARO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
