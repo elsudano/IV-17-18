@@ -83,5 +83,5 @@ una aplicación.
 
 12. [X]  Asistir al seminario sobre [cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30](https://www.meetup.com/es-ES/preview/Granada-Geek/events/243776993).
 
-13. [X] Tratar de combinar proyectos individuales en un proyecto mayor que  se desarrollará usando la metodología SCRUM. 
+13. [X] Tratar de combinar proyectos individuales en un proyecto mayor que  se desarrollará usando la metodología SCRUM
 
