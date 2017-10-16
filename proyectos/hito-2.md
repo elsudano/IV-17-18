@@ -23,7 +23,7 @@ Añade debajo enlaces a tu proyecto
 | HERNANDEZ CAÑAVERAS, JUAN|[repositorio](https://github.com/MagicJHC10/Proyecto-IV) | 0.1|
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
-| MARTIN QUIROS, JUAN ANTONIO| | |
+| MARTIN QUIROS, JUAN ANTONIO|[Proyecto_Skull](https://github.com/marquirj/ProyectoSkull) | 0.1 |
 | MEDINA FACAL, RAFAEL| [Repo](https://github.com/Medfac9/Proyecto_IV) | 0.1 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
 | MOLINA GOMEZ, PABLO| [Repo_Proyecto](https://github.com/pmolinag/proyecto) | 0.2 |
