@@ -36,12 +36,13 @@
 ## Semana del 28 al 5 de Octubre de 2017
 
 - [x] Entender el concepto de DevOps.
-- [ ] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [x] Aprender a usar integración continua en cualquier aplicación.
 - [x] Realizar algunos ejercicios del tema 2 de teoría
 
 ## Semana del 5 al 12 de Octubre de 2017
 
-- [ ] Entender los conceptos de PaaS y SaaS
-- [ ] Continuar con los ejercicios del tema 2 de teoría
-- [ ] Reunión con el grupo de trabajo creado en la clase del día 5
+- [x] Entender los conceptos de PaaS y SaaS
+- [x] Continuar con los [ejercicios del tema 2 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_2.md)
+- [x] Reunión con el grupo de trabajo creado en la clase del día 5
+- [x] Terminar la integración contínua del proyecto principal
