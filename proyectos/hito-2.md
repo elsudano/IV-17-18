@@ -22,8 +22,9 @@ Añade debajo enlaces a tu proyecto
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
 | HERNANDEZ CAÑAVERAS, JUAN|[repositorio](https://github.com/MagicJHC10/Proyecto-IV) | 0.1|
 | LIÑAN VILLAFRANCA, LUIS| | |
-| LOPEZ ACEITUNO, MANUEL| | |
-| MARTIN QUIROS, JUAN ANTONIO|[Proyecto_Skull](https://github.com/marquirj/ProyectoSkull) | 0.1 |
+
+| LOPEZ ACEITUNO, MANUEL| [Repositorio](https://github.com/manuellopez92/ProyectoIV)| 0.1|
+| MARTIN QUIROS, JUAN ANTONIO|[Proyecto_Skull](https://github.com/marquirj/ProyectoSkull) |0.2 |
 | MEDINA FACAL, RAFAEL| [Repo](https://github.com/Medfac9/Proyecto_IV) | 0.1 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
 | MOLINA GOMEZ, PABLO| [Repo_Proyecto](https://github.com/pmolinag/proyecto) | 0.2 |

@@ -10,6 +10,8 @@
 4. Comprender qué herramientas de desarrollo y lenguajes de programación 
   se pueden usar en diferentes PaaS con facilidad.
 3. Resolver los problemas que surjan en los primeros despliegues.
+5. Comienzo de la dinámica de proyecto en grupo, para quien lo haya
+   hecho así.
 
 ## Otros objetivos
 
