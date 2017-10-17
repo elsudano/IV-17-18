@@ -33,3 +33,25 @@ jueves a partir de las 12:30 está el Hacklab Granada en la sala de reuniones (o
 * [X] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 * [X] Haber usado git para hacer *check-in* en clase y [expresar al final de cada sesión los objetivos alcanzados (Cumpliendo_Objetivos.md).
 * [X] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero.
+
+# Tercera semana, del 28 de septiembre al 5 de octubre de 2017
+
+## Objetivos de la semana
+
+* [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+* [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+* [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+* [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+* [X] Asistir a clase
+
+
+
+## Otros objetivos
+
+* [X] Haber entregado el primer hito del proyecto al final de la semana.
+* [X] Entender el segundo hito del proyecto
+* [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+* [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+* [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+* [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+* [X] Comprender el papel de las build tools o herramientas de automatización.
