@@ -7,6 +7,8 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 
 - [X] Ejercicios del hito 2 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%202/ejercicios2.md))
 
+-[ ] Ejercicios del hito 3 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%203/ejercicios3.md))
+
 ## Práctica 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
 - [X] **Página del repositorio en GitHub Pages** \-> [Página aquí](https://berbus.github.io/proyectoIV/) <\-.
@@ -40,3 +42,13 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 - [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [X] Comprender el papel de las build tools o herramientas de automatización.
+
+## Práctica 3
+- [ ] Terminar la configuración de los sistemas de integración continua.
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y sus uso en prueba y producción.
+
+- [ ] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+- [ ] Configurar los toolbelt de diferentes sistemas PaaS como BlueMix, Heroku u OpenShift.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Asistir al seminario sobre cómo colaborar con los proyectos de software libre.
+- [ ] Tratar de combinar proyectos individuales en un proyecto mayor que se desarrollará usando la metodología SCRUM.
