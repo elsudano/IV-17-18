@@ -5,7 +5,7 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 
 - [X] Ejercicios del hito 1 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%201/ejercicios.md)).
 
-- [ ] Ejercicios del hito 2 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%202/ejercicios2.md))
+- [X] Ejercicios del hito 2 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%202/ejercicios2.md))
 
 ## Práctica 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
@@ -35,8 +35,8 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 
 - [X] Haber entregado el primer hito del proyecto al final de la semana.
 - [X] Entender el segundo hito del proyecto.
-- [ ] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
-- [ ] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+- [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
 - [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 - [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [X] Comprender el papel de las build tools o herramientas de automatización.
