@@ -27,6 +27,6 @@
 Continuamos con el
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS). 
 
-##Siguiente semana
+## Siguiente semana
 
 [Sexta semana](6-semana.md)
