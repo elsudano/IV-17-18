@@ -21,9 +21,9 @@
 ## Objetivos a cubrir en la sesión (05/10/2017)
 
 1. [X] Asistir a clase
-2. [ ] Integrar la clase en python
-3. [ ] Actualizar gh-pages
-4. [ ] Probar todas las herramientas que tengo planeadas aunque sea a un nivel básico
+2. [X] Integrar la clase en js
+3. [X] Actualizar gh-pages
+4. [X] Probar todas las herramientas que tengo planeadas aunque sea a un nivel básico
 5. [ ] Cubrir issues
 6. [ ] Pasar tests
-7. [ ] Incluir travis en mi propio proyecto 
+7. [X] Incluir travis en mi propio proyecto
