@@ -36,3 +36,13 @@
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] Comprender el papel de las *build tools* o herramientas de automatización.
+
+
+## Objetivos referentes a la quinta y sexta semana (16/10/2017)
+
+- [ ] Entender lo que es un *Platform as a Service* y su utilidad.
+- [ ] Elegir un PaaS, configurarlo y documentar dicha configuración en GitHub.
+- [ ] Seguir aprendiendo NodeJS, su framework *Express* y realizar algunas pruebas de servicio web.
+- [ ] Definir correctamente los ficheros de servicio del PaaS elegido.
+- [x] Haber entregado los hitos [1](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) y [2](http://jj.github.io/IV/documentos/practicas/2.CI) antes de esta semana.
+- [ ] Entender este [tercer hito](http://jj.github.io/IV/documentos/practicas/3.Paas)
