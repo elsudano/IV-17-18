@@ -52,3 +52,11 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Asistir al seminario sobre cómo colaborar con los proyectos de software libre.
 - [ ] Tratar de combinar proyectos individuales en un proyecto mayor que se desarrollará usando la metodología SCRUM.
+- [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [ ] Internalizar el concepto de PaaS, su aplicación y sus límites.
+- [ ] Entender el concepto de despliegue y cómo la IV y su especificación son esenciales para el mismo.
+- [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [ ] Resolver los problemas que surjan en los primeros despliegues.
+- [X] Darse de alta y probar diferentes servicios PaaS.
+- [X] Instalar los toolbet de los diferentes puntos de despliegue remoto con push.
