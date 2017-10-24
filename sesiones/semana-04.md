@@ -1,6 +1,6 @@
-# Cuarta semana, comienza el 5 de octubre
+# Cuarta sesión, comienza el 5 de octubre
 
-**Importante** comienza el hacktoberfest. Buscad *issues* con la
+**Importante** comienza el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ## Objetivos de la semana

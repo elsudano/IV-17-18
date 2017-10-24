@@ -47,5 +47,5 @@ vComenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo 
 ### Otros objetivos
 
 * [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
-* [] Aplicar el concepto de DevOps a este tipo específico de plataforma.
-* [] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+* [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+* [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
