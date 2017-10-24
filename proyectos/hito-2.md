@@ -13,7 +13,7 @@ Añade debajo enlaces a tu proyecto
 | CASTRO MONTES, GERMAN| [repositorio](https://github.com/patamimbre/IV_Proyecto)| 0.3 |
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.4 |
 | DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.4 |
-| DE LA HOZ GARRIDO, PAULA MARIA| [LAZYHACKER](https://github.com/LazyHackerOrg/LazyHacker/tree/paula)| 0.1 |
+| DE LA HOZ GARRIDO, PAULA MARIA| [LAZYHACKER](https://github.com/terceranexus6/copylazyjacker)| 0.1 |
 | DE LA TORRE FANIN, CARLOS|  [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 0.1 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| [UGRCalendar](https://github.com/mariofg92/ivmario) | 0.3 |
