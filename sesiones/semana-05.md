@@ -25,8 +25,8 @@
 ## Material para la clase
 
 Continuamos con el
-[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS) y se abre el plazo para entregar [el tercer hito del proyecto](https://jj.github.io/IV/documentos/temas/PaaS). Fecha límite: **7 de noviembre a las 00:00**.
+[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS) y se abre el plazo para entregar [el tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS). Fecha límite: **7 de noviembre a las 00:00**.
 
 ## Siguiente semana
 
-[Sexta semana](6-semana.md)
+[Sexta semana](semana-06.md)
