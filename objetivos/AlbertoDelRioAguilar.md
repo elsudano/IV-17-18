@@ -49,8 +49,7 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 
 - [X] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
 - [X] Configurar los toolbelt de diferentes sistemas PaaS como BlueMix, Heroku u OpenShift.
-- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
-- [ ] Asistir al seminario sobre cómo colaborar con los proyectos de software libre.
+- [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [ ] Tratar de combinar proyectos individuales en un proyecto mayor que se desarrollará usando la metodología SCRUM.
 - [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
 - [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
