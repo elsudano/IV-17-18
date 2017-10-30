@@ -4,6 +4,7 @@ use Test::More;
 use Git;
 use LWP::Simple;
 use File::Slurper qw(read_text);
+use JSON;
 
 
 use v5.14; # For say
@@ -55,11 +56,19 @@ SKIP: {
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
   }
-
+  my $README;
+  
   if ( $this_hito > 1 ) { # Comprobar milestones y eso 
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    my $README =  read_text( "$repo_dir/README.md"),;
+    $README =  read_text( "$repo_dir/README.md"),;
     like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
+  }
+
+  if ( $this_hito > 2 ) { # Despliegue en algún lado
+    my ($deployment_url) = ($README =~ /Despliegue.+(https:..\S+)/);
+    my $status = get $deployment_url;
+    isnt( $status, undef, "Despliegue hecho" );
+    is_deeply( from_json( $status ), { status => "OK" }, "Status correcto");
   }
 };
 
@@ -84,5 +93,5 @@ sub closes_from_commit {
   my ($user,$repo,$issue) = @_;
   my $page = get( "https://github.com/$user/$repo/issues/$issue" );
   return $page =~ /closed\s+this\s+in/gs ;
-
+  
 }
