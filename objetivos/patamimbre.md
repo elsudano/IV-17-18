@@ -52,21 +52,20 @@ actividades de la asignatura.
 
 ## Objetivos sesión 5
 
-* [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
-* [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
-* [ ] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+* [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+* [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+* [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 * [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 * [ ] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 * [ ] Resolver los problemas que surjan en los primeros despliegues.
-* [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+* [X] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
 
 ### Otros objetivos
 
-* [ ] Darse de alta y probar diferentes servicios PaaS.
-* [ ] Instalar el *toolbelt* de Heroku.
+* [X] Darse de alta y probar diferentes servicios PaaS.
+* [X] Instalar el *toolbelt* de Heroku.
 * [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
 * [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
-* [ ] Añadir ruby a gitignore
 * [ ] Salida como JSON del escaner
 * [ ] Comprobar que ARGV es una IP
 * [ ] Editar test de parser.rb
