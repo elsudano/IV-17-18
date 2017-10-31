@@ -50,7 +50,7 @@ actividades de la asignatura.
 * [X] Integración continua en el proyecto
 * [X] Comprobar que el Hito 2 pasa los test
 
-## Sesión 5
+## Objetivos sesión 5
 
 * [ ] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
 * [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
@@ -63,7 +63,7 @@ actividades de la asignatura.
 ### Otros objetivos
 
 * [ ] Darse de alta y probar diferentes servicios PaaS.
-* [ ] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+* [ ] Instalar el *toolbelt* de Heroku.
 * [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
 * [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
 * [ ] Añadir ruby a gitignore
