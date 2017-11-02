@@ -19,7 +19,7 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| | |
 | GALLARDO MOLINA, ANDRES JOSE| | |
-| GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.9 |
+| GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.0 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
