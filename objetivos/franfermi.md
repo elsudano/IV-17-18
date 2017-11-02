@@ -79,3 +79,19 @@
 - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## Sesión 6 (Semana del 26 de octubre al 6 de noviembre)
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+## Otros objetivos
+
+- [x] [Ejercicios Tema 3.](https://github.com/franfermi/Ejercicios_IV) (En proceso, estarán finalizados para antes de la entrega).
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
