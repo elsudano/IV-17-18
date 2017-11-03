@@ -36,3 +36,12 @@
 8. [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
 9. [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
 10. [X] Comprender el papel de las build tools o herramientas de automatización.
+
+
+  ## Objetivos del Hito 3
+
+1. [] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+3. [] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+4. [] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+5. [] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
