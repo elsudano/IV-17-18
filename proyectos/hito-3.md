@@ -38,8 +38,4 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ MONTES, DAVID| | |
 | TOLEDANO DELGADO, CARLOS| | |
 | TORRES MORENO, FRANCISCO MANUEL| | |
-<<<<<<< HEAD
-| VELEZ RUIZ, CRISTIAN| | |
-=======
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.4|
->>>>>>> 9c4016e3f76468addc83e6938d275a1e1751961b
