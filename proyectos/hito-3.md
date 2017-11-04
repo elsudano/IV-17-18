@@ -18,7 +18,7 @@ Añade debajo enlaces a tu proyecto
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
-| GALLARDO MOLINA, ANDRES JOSE| [Repo](https://github.com/Maverick94/IV_Proyecto) | 0.5 |
+| GALLARDO MOLINA, ANDRES JOSE| [Repo](https://github.com/Maverick94/IV_Proyecto) | 0.6 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.0 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
