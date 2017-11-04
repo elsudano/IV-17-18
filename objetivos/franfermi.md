@@ -62,3 +62,36 @@
 - [x] Asistir al seminario sobre [cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30](https://www.meetup.com/es-ES/preview/Granada-Geek/events/243776993).
 - [x] Tratar de combinar proyectos individuales en un proyecto mayor que
   se desarrollará usando la metodología SCRUM.
+
+## Sesión 5 (Semana del 19 al 26 de octubre)
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+
+## Otros objetivos
+
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## Sesión 6 (Semana del 26 de octubre al 6 de noviembre)
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+## Otros objetivos
+
+- [x] [Ejercicios Tema 3.](https://github.com/franfermi/Ejercicios_IV) (En proceso, estarán finalizados para antes de la entrega).
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
