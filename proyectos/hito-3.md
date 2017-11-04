@@ -17,14 +17,14 @@ Añade debajo enlaces a tu proyecto
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
-| FERNANDEZ MILLAN, FRANCISCO| | |
+| FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
 | GALLARDO MOLINA, ANDRES JOSE| [Repo](https://github.com/Maverick94/IV_Proyecto) | 0.5 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.0 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
-| MEDINA FACAL, RAFAEL| | |
+| MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV) | 0.2 |
 | MENGIBAR RODRIGUEZ, MIRIAM| | |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
@@ -38,4 +38,8 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ MONTES, DAVID| | |
 | TOLEDANO DELGADO, CARLOS| | |
 | TORRES MORENO, FRANCISCO MANUEL| | |
+<<<<<<< HEAD
 | VELEZ RUIZ, CRISTIAN| | |
+=======
+| VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.4|
+>>>>>>> 9c4016e3f76468addc83e6938d275a1e1751961b
