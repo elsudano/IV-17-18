@@ -31,7 +31,7 @@
 
 **Otros objetivos**
 
-- [x] Haber realizado los ejercicios del TEMA 1: [EjerciciosT2](https://github.com/carlillostole/Ejercicios-IV/blob/master/TEMA1/EjerciciosT1.md)
+- [x] Haber realizado los ejercicios del TEMA 1: [EjerciciosT1](https://github.com/carlillostole/Ejercicios-IV/blob/master/TEMA1/EjerciciosT1.md)
 
 - [x] Al final de la clase, haber entregado el hito 0.
 
@@ -102,3 +102,36 @@ Importante comienza el hacktoberfest. Buscad issues con la etiqueta hacktoberfes
 - [x] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 
 - [x] Tratar de combinar proyectos individuales en un proyecto mayor que se desarrollará usando la metodología SCRUM.
+
+### Quinta semana, comienza el 19 de octubre
+
+**Objetivos de la semana**
+
+- [x] Haber realizado los ejercicios del TEMA 3: [EjerciciosT3](https://github.com/carlillostole/Ejercicios-IV/blob/master/TEMA3/EjerciciosT3.md)
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+
+- [x] Entender el concepto de despliegue y cómo la infraestructura
+   virtual y su especificación son esenciales para el mismo.
+
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación
+  se pueden usar en diferentes PaaS con facilidad.
+
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+
+- [x] Comienzo de la dinámica de proyecto en grupo, para quien lo haya
+   hecho así.
+
+**Otros objetivos**
+- [x] Darse de alta y probar diferentes servicios PaaS.
+
+- [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+
+- [x] Aprender buenas prácticas en entornos con integración y despliegue
+   continuo: uso de ramas en el código, uso de *tags* para releases...
