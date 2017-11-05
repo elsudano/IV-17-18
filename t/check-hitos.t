@@ -67,8 +67,8 @@ SKIP: {
   if ( $this_hito > 2 ) { # Despliegue en algún lado
     my ($deployment_url) = ($README =~ /Despliegue.+(https:..\S+)/);
     my $status = get $deployment_url;
-    isnt( $status, undef, "Despliegue hecho" );
-    is_deeply( from_json( $status ), { status => "OK" }, "Status correcto");
+    isnt( $status, undef, "Despliegue hecho en $deployment_url" );
+    is_deeply( from_json( $status ), { status => "OK" }, "Status de $deployment_url correcto");
   }
 };
 
