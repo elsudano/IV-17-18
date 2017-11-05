@@ -61,3 +61,24 @@ Míriam Mengíbar Rodríguez
 
 - [x] Comprender el papel de las build tools o herramientas de automatización.
  
+
+# Hito 3
+
+## Objetivos semana 19 de Octubre
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+##Objetivos específicos
+
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+## Otros objetivos
+- [x] Añadir ORM a mi proyecto.
+- [x] Actualizar documentación.
+- [x] Realizar [ejercicios tema 3](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema3.md)
