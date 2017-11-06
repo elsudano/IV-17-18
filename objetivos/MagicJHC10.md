@@ -84,9 +84,9 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 - [x] Terminar la configuración de los sistemas de integración continua
 - [x] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
 
-##Quinta semana, comienza el 19 de octubre
+## Quinta semana, comienza el 19 de octubre
 
-##Objetivos de la semana
+## Objetivos de la semana
 
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
 - [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
@@ -97,21 +97,21 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 - [x] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
 
 
-##Otros objetivos
+## Otros objetivos
 
 - [x] Darse de alta y probar diferentes servicios PaaS.
 - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
 
-##Sexta semana, comienza el 26 de octubre
+## Sexta semana, comienza el 26 de octubre
 
-##Objetivos de la semana
+## Objetivos de la semana
 
 - [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
-##Otros objetivos
+## Otros objetivos
 
 - [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
@@ -121,12 +121,12 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
-##Séptima semana, comienza el 2 de noviembre
+## Séptima semana, comienza el 2 de noviembre
 
-##Objetivos de la semana
+## Objetivos de la semana
 - [x] Elegir un PaaS para llevar a cabo este hito.
 
-##Otros objetivos
+## Otros objetivos
 
 - [x] Resolver los problemas que se presenten a través de Telegram y entregar el hito el 7 de noviembre a las 00:00
 
