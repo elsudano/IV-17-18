@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | CARMONA OLIVA, ALVARO| | |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.3 |
+| CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.4 |
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
