@@ -35,7 +35,7 @@ recurso.
 
 ### Otros objetivos
 
-* [X] Al final de la clase, haber entregado el hito 0. 
+* [X] Al final de la clase, haber entregado el hito 0.
 * [X] Tener a punto una instalación Linux para llevar a cabo las
 actividades de la asignatura.
 * [X] Manejar de forma básica la línea de órdenes de Linux.
@@ -53,7 +53,7 @@ una aplicación.
 * [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de
   programación y entender su utilidad.
 * [X] Entender los ficheros de *requisitos* y su utilidad en las
-  infraestructuras virtuales. 
+  infraestructuras virtuales.
 
 ### Otros objetivos
 
@@ -62,7 +62,7 @@ una aplicación.
   al final de la semana.
 * [X] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 * [X] Entender el formato JSON y su importancia para ficheros de
-  configuración e intercambio genérico de datos. 
+  configuración e intercambio genérico de datos.
 * [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o
   entender cómo node.js hace las cosas, o simplemente mirar el
   cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de
@@ -90,3 +90,36 @@ una aplicación.
 * [X] Comprender los mecanismos de despliegue automático.
 * [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
+## Quinta semana, comienza el 19 de octubre
+
+### Objetivos de la semana
+
+* [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+* [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+* [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+* [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+* [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+* [X] Resolver los problemas que surjan en los primeros despliegues.
+
+### Otros objetivos
+
+* [X] Darse de alta y probar diferentes servicios PaaS.
+* [X] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+
+## Sexta semana, comienza el 26 de octubre
+
+### Objetivos de la semana
+
+* [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+* [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+### Otros objetivos
+
+* [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+* [X] Trabajar con los *toolbelts* de los diferentes PaaS.
+
+## Séptima semana, comienza el 2 de noviembre
+
+### Objetivos de la semana
+
+* [X] Elegir un PaaS para llevar a cabo este hito.
