@@ -11,7 +11,7 @@ Añade debajo enlaces a tu proyecto
 | CASADO VERGARA, MANUEL|[Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6|
-| CERVILLA ORTEGA, SERGIO| | |
+| CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.5 |
 | DE LA TORRE FANIN, CARLOS| | |
