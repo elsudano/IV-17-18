@@ -23,8 +23,71 @@ Carlos de la Torre
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 ## Otros objetivos
-- [x] Realizar los [ejercicios del tema 1.](https://github.com/elsudano/Universidad/blob/FACULTAD/04Cuarto/Infraestructura_Virtual_IV/ejercicios/Tema1.md)
+- [x] Realizar los [ejercicios](https://github.com/elsudano/Universidad/blob/FACULTAD/04Cuarto/Infraestructura_Virtual_IV/ejercicios/Tema1.md) del tema 1.
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 - [x] Al final de la clase, haber entregado el hito 1.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Cambiar nombre a fichero de objetivos.
+
+# Hito 2
+
+## Objetivos semana del 28 de septiembre al 5 de octubre de 2017
+
+- [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+## Otros objetivos
+- [X] Haber entregado el primer hito del proyecto al final de la semana.
+- [X] Entender el segundo hito del proyecto
+- [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente 	de otra forma.
+- [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [X] Comprender el papel de las build tools o herramientas de automatización.
+
+## Objetivos del Tema 1 de Teoría
+
+1. [X] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
+2. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+3. [X] Comprender la diferencia entre infraestructura virtual y real.
+4. [X]  Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+5. [X]  Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot)
+6. [X]  Conocer el concepto de software libre y su importancia dentro de la computación nube.
+7. [X]  Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
+8. [X]  Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+## Objetivos semana del 5 de octubre al 12 de octubre de 2017
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+
+## Otros objetivos
+- [x] Continuar con los [ejercicios](https://github.com/elsudano/Universidad/blob/FACULTAD/04Cuarto/Infraestructura_Virtual_IV/ejercicios/Tema2.md) del tema 2 de teoría
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+
+## Objetivos semana del 13 de octubre al 19 de octubre de 2017
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [x] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+
+## Otros objetivos
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
+
+## Objetivos semana del 26 de octubre al 2 de noviembre de 2017
+- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+## Otros objetivos
+- [ ] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [ ] Probar [`zeit.co`](https://zeit.co), aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
+- [ ] Trabajar con los *toolbelts* de los diferentes PaaS.
+- [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.

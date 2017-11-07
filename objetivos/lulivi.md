@@ -15,8 +15,7 @@
 
 # Hito 1
 
-## Semana del 21 al 28 de septiembre de 2017
-
+## Semana del 21 al 28 de Septiembre de 2017
 
 - [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 - [x] Comprender las técnicas de cálculo del coste de amorticszación de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
@@ -27,6 +26,36 @@
 - [x] Realizar los [ejercicios del hito 1](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_1.md) .
 - [x] Añadir nociones básicas al readme del proyecto.
 
-## Otros objetivos
+### Otros objetivos
 
 - [x] Hacer un [pull request](https://github.com/mirismr/ejerciciosIV/pull/8) a un compañero
+
+
+# Hito 2
+
+## Semana del 28 al 5 de Octubre de 2017
+
+- [x] Entender el concepto de DevOps.
+- [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [x] Aprender a usar integración continua en cualquier aplicación.
+- [x] Realizar algunos ejercicios del tema 2 de teoría
+
+## Semana del 5 al 12 de Octubre de 2017
+
+- [x] Entender los conceptos de PaaS y SaaS
+- [x] Continuar con los [ejercicios del tema 2 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_2.md)
+- [x] Reunión con el grupo de trabajo creado en la clase del día 5
+- [x] Terminar la integración contínua del proyecto principal
+
+
+# Hito 3
+
+## Semana del 2 al 9 de Noviembre de 2017
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Realizar los [ejercicios del tema 3 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_3.md).
+- [ ] Realizar lo descrito en teoría para nuestra aplicación.

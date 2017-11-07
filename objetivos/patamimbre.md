@@ -33,3 +33,42 @@ actividades de la asignatura.
 * [X] Aprender a instalar software libre en Linux.
 * [X] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 * [] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un *pull request*, en este caso al repo del compañero.
+
+
+## Sesión 3
+
+* [X] He asistido a clase de prácticas el día 03/10/2017
+* [X] Programar parte del escaner de puertos
+* [X] Realizar algunos ejercicios
+
+## Sesión 4
+* [X] He asistido a clase de prácticas el día 10/10/2017
+* [X] Comprobar que el escaner funciona
+* [X] Terminar ejercicios teoría
+* [X] Crear Gemfile con dependencias del proyecto 
+* [X] Crear Rakefile
+* [X] Integración continua en el proyecto
+* [X] Comprobar que el Hito 2 pasa los test
+
+## Objetivos sesión 5
+
+* [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+* [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+* [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+* [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+* [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+* [X] Resolver los problemas que surjan en los primeros despliegues.
+* [X] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+
+### Otros objetivos
+
+* [X] Darse de alta y probar diferentes servicios PaaS.
+* [X] Instalar el *toolbelt* de Heroku.
+* [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+* [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
+* [ ] Salida como JSON del escaner
+* [ ] Comprobar que ARGV es una IP
+* [ ] Editar test de parser.rb
+* [X] Crear clase DBmanager para poder interactuar entre API y CVESearch
+  
+ 

@@ -29,3 +29,32 @@
 11. [X] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 12. [X] Asistencia a prácticas.
 13. [X] [autoevaluación1](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion1.md)
+
+## OBJETIVOS DE LA TERCERA PRACTICA
+
+1. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [X] Entender el concepto de DevOps.
+3. [X] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+4. [X] Aprender a usar integración continua en cualquier aplicación.
+5. [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+6. [X] Haber entregado el primer hito del proyecto al final de la semana.
+7. [X] Entender el segundo hito del proyecto
+8. [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+9. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+10. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+11. [X] Comprender el papel de las build tools o herramientas de automatización.
+12. [X] [Autoevaluacion2](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion2.md)
+
+## OBJETIVOS DE LA CUARTA PRACTICA
+
+1. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+3. [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+4. [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+5. [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+6. [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+7. [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+8. [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+9. [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+10. [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+11. [X] Resolver los problemas que surjan en los primeros despliegues.

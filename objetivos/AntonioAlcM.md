@@ -33,3 +33,78 @@ recurso.
 - [x] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 ### Ejercicios Tema1
 [Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema1)
+
+# Tercera semana, del 28 de septiembre al 5 de octubre de 2017
+
+
+## Objetivos de la semana
+
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.  
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.  
+
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+
+- [x] Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.  
+
+## Otros objetivos
+
+- [x] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana.  
+
+- [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)  
+
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.  
+
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de otra forma.
+
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+
+- [x] Comprender el papel de las *build tools* o herramientas de automatización.
+
+### Ejercicios tema 2
+[Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema2)
+
+# Cuarta sesión, comienza el 5 de octubre
+
+**Importante** comienza el *hacktoberfest*. Buscad *issues* con la
+etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
+
+## Objetivos de la semana
+
+1. Terminar la configuración de los sistemas de integración continua
+2. Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+## Otros objetivos
+
+- [x] Entender los errores en la entrega del
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  y corregirlos si es pertinente.
+- [x] Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+- [x] Comprender los mecanismos de despliegue automático.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [ ] Asistir al seminario sobre [cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30](https://www.meetup.com/es-ES/preview/Granada-Geek/events/243776993).
+- [ ] Tratar de combinar proyectos individuales en un proyecto mayor que se desarrollará usando la metodología SCRUM.
+
+# Quinta semana, comienza el 19 de octubre
+
+## Objetivos de la semana
+
+- [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+- [x] Resolver los problemas que surjan en los primeros despliegues.
+- [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+
+## Otros objetivos
+
+- [x] Darse de alta y probar diferentes servicios PaaS.
+- [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
+
+### Ejercicios Tema3
+[Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema3)

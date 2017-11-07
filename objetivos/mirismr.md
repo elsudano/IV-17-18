@@ -33,3 +33,52 @@ Míriam Mengíbar Rodríguez
 - [x] Manejar de forma básica la línea de órdenes de Linux. 
 - [x] Cambiar nombre a fichero de objetivos. 
  
+# Hito 2
+
+## Objetivos semana del 28 de septiembre al 5 de octubre de 2017
+
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+## Otros objetivos
+- [x] Realizar los [ejercicios del tema 2.](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema2.md)
+- [x] Haber entregado el primer hito del proyecto al final de la semana.
+
+- [x] Entender el segundo hito del proyecto
+
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+ 
+
+# Hito 3
+
+## Objetivos semana 19 de Octubre
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+##Objetivos específicos
+
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+## Otros objetivos
+- [x] Añadir ORM a mi proyecto.
+- [x] Actualizar documentación.
+- [x] Realizar [ejercicios tema 3](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema3.md)
