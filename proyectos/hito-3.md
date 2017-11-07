@@ -8,7 +8,7 @@ Añade debajo enlaces a tu proyecto
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| [ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV)| 0.2|
-| CASADO VERGARA, MANUEL| | |
+| CASADO VERGARA, MANUEL|[Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6|
 | CERVILLA ORTEGA, SERGIO| | |
@@ -34,7 +34,7 @@ Añade debajo enlaces a tu proyecto
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MARTINEZ, CARLOS | | |
-| SANCHEZ MONTES, DAVID| | |
+| SANCHEZ MONTES, DAVID| [Repositorio](https://github.com/Anixo/ProyectoIV) | 0.1 |
 | TOLEDANO DELGADO, CARLOS| [Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| [Proyecto](https://github.com/ainokila/ProyectoIV) | 0.4|
