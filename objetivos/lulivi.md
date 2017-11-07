@@ -46,3 +46,16 @@
 - [x] Continuar con los [ejercicios del tema 2 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_2.md)
 - [x] Reunión con el grupo de trabajo creado en la clase del día 5
 - [x] Terminar la integración contínua del proyecto principal
+
+
+# Hito 3
+
+## Semana del 2 al 9 de Noviembre de 2017
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Realizar los [ejercicios del tema 3 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_3.md).
+- [x] Realizar lo descrito en teoría para nuestra aplicación.

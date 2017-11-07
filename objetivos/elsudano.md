@@ -80,14 +80,18 @@ Carlos de la Torre
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
 
 ## Objetivos semana del 26 de octubre al 2 de noviembre de 2017
-- [ ] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
-- [ ] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
 
 ## Otros objetivos
-- [ ] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
 - [ ] Probar [`zeit.co`](https://zeit.co), aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
-- [ ] Trabajar con los *toolbelts* de los diferentes PaaS.
+- [x] Trabajar con los *toolbelts* de los diferentes PaaS.
 - [ ] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
 - [ ] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [ ] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [ ] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Objetivos semana del 2 de noviembre al 7 de noviembre de 2017
+- [x] Terminar de desplegar la aplicación
+- [x] Probar la integración continua con los test en Travis
