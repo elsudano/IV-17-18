@@ -14,7 +14,7 @@ Añade debajo enlaces a tu proyecto
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.5 |
-| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 1.0 |
+| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 0.8 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
