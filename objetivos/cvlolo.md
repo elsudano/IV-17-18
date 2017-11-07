@@ -66,6 +66,24 @@
 5. [X] Asistir al seminario sobre cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30.
 6. [X] Tratar de combinar proyectos individuales en un proyecto mayor que se desarrollará usando la metodología SCRUM.
 
+## Quinta semana, comienza el 19 de octubre
+
+### Objetivos de la semana
+
+1. [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+2. [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+3. [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+4. [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+5. [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+6. [X] Resolver los problemas que surjan en los primeros despliegues.
+7. [X] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+
+### Otros objetivos
+1. [X] Darse de alta y probar diferentes servicios PaaS.
+2. [X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+3. [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+4. [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
 
 ## Objetivos del Tema 1 de Teoría
 
@@ -88,4 +106,16 @@
 2. [X] Entender el concepto de DevOps.
 3. [X] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 4. [X] Aprender a usar integración continua en cualquier aplicación.
+
+## Objetivos del Tema 3 de Teoría
+
+[Ejercicios Tema 3](https://github.com/cvlolo/Ejercicios-IV/blob/master/Ejercicios_Tema3.md)
+
+1. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+3. [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+4. [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+5. [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+
 
