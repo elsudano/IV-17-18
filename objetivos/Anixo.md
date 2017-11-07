@@ -42,3 +42,12 @@
 10. [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 11. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 12. [X] Comprender el papel de las build tools o herramientas de automatización.
+
+
+## Objetivos práctica 3
+
+1. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+3. [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+4. [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+5. [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
