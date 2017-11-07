@@ -21,7 +21,7 @@ Añade debajo enlaces a tu proyecto
 | GALLARDO MOLINA, ANDRES JOSE| [Repo](https://github.com/Maverick94/IV_Proyecto) | 0.6 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.0 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
-| LIÑAN VILLAFRANCA, LUIS|[bot-calendario-telegram](https://github.com/lulivi/bot-calendario-telegram)|0.1|
+| LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV) | 0.2 |
