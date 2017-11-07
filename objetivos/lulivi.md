@@ -58,4 +58,4 @@
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 - [x] Realizar los [ejercicios del tema 3 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_3.md).
-- [ ] Realizar lo descrito en teoría para nuestra aplicación.
+- [x] Realizar lo descrito en teoría para nuestra aplicación.
