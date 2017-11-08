@@ -11,7 +11,7 @@ Añade debajo enlaces a tu proyecto
 | CASADO VERGARA, MANUEL|[Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6|
-| CERVILLA ORTEGA, SERGIO| | |
+| CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.6 |
 | DE LA TORRE FANIN, CARLOS| | |
@@ -21,16 +21,16 @@ Añade debajo enlaces a tu proyecto
 | GALLARDO MOLINA, ANDRES JOSE| [Repo](https://github.com/Maverick94/IV_Proyecto) | 0.6 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.0 |
 | HERNANDEZ CAÑAVERAS, JUAN|[Proyecto](https://github.com/MagicJHC10/Proyecto-IV) | 0.2|
-| LIÑAN VILLAFRANCA, LUIS| | |
+| LIÑAN VILLAFRANCA, LUIS|[bot-calendario-telegram](https://github.com/lulivi/bot-calendario-telegram)|0.2|
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV) | 0.2 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.3 |
 | MOLINA GOMEZ, PABLO| [Repo_Proyecto](https://github.com/pmolinag/proyecto) | 0.3 |
-| MORENTE GABALDON, ADRIAN| | |
+| MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.4 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| PELAEZ PRIEGO, ANTONIO JESUS| | |
+| PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.5 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MARTINEZ, CARLOS | | |
