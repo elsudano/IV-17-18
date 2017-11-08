@@ -12,8 +12,13 @@ Añade debajo enlaces a tu proyecto
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6|
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
+<<<<<<< HEAD
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.14 |
 | DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.5 |
+=======
+| DEL RIO AGUILAR, ALBERTO| | |
+| DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.6 |
+>>>>>>> b8380a9bbf0b83ec398a7cea313c6fa394191b35
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
