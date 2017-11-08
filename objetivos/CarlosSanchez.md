@@ -26,3 +26,13 @@
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.  
 - [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.  
 - [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.  
+
+[Enlace ejercicios tema2](https://github.com/CharlySM/IV-CarlosSanchezMartinez/blob/master/EjerciciosTema2.md)  
+  ## OTROS OBJETIVOS  
+- [x] Haber entregado el primer hito del proyecto al final de la semana.  
+- [x] Entender el segundo hito del proyecto.  
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.  
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.  
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.  
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.  
+- [x] Comprender el papel de las build tools o herramientas de automatización.  
