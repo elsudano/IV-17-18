@@ -20,3 +20,9 @@
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.  
 - [x] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.  
 - [x] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.  
+  
+# OBJETIVOS TEMA 2  
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.  
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.  
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.  
+- [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.  
