@@ -1,4 +1,4 @@
-# Décima semana, comienza el 24 de noviembre
+# Undécima semana, comienza el 24 de noviembre
 
 ## Objetivos de la semana
 

@@ -1,4 +1,4 @@
-# Séptima 8, comienza el 9 de Noviembre
+# Semana 8, comienza el 9 de Noviembre
 
 
 ## Objetivos de la semana
