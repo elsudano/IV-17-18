@@ -10,7 +10,12 @@
 ## Otros objetivos
 
 1. Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
-1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+2. Comentar problemas comunes con el hito anterior:
+   1. Puertos de Heroku.
+   2. Uso de SqLite.
+   3. Despliegue desde GitHub.
+   4. Despliegue de cosas que no son servicio web. 
+1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada. 
 1. Instalar Docker y trabajar con él.
 2. Usar imágenes de docker publicadas. 
 
