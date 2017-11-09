@@ -12,9 +12,9 @@ Añade debajo enlaces a tu proyecto
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6|
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
-| DEL RIO AGUILAR, ALBERTO| | |
-| DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.5 |
-| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 0.8 |
+| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 0.9 |
+| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.14 |
+| DE LA HOZ GARRIDO, PAULA MARIA|[lazyhacker](https://github.com/terceranexus6/copylazyjacker) | 0.6 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.1 |
@@ -27,7 +27,7 @@ Añade debajo enlaces a tu proyecto
 | MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV) | 0.2 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.3 |
 | MOLINA GOMEZ, PABLO| [Repo_Proyecto](https://github.com/pmolinag/proyecto) | 0.3 |
-| MORENTE GABALDON, ADRIAN| | |
+| MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.4 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.5 |
