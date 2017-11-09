@@ -69,3 +69,12 @@ jueves a partir de las 12:30 está el Hacklab Granada en la sala de reuniones (o
 * [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
 * [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 * [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+# Quinta semana
+
+## Objetivos de la semana
+
+* [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+* [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+* [X] Documentar y mantener una plataforma virtual.
+* [X] Realizar tareas de administración de infraestructuras virtuales.
