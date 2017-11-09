@@ -1,7 +1,7 @@
 # Sexta semana, comienza el 26 de octubre
 
 Para terminar el hito 2 y emprender el camino al siguiente hito,
-usando 
+usando PaaS 
 
 ## Objetivos de la semana
 
@@ -32,4 +32,5 @@ fecha de entrega es el **7 de noviembre**.
 
 ## Siguiente semana
 
-[Séptima semana](07-semana.md)
+[Séptima semana](semana-07.md)
+

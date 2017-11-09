@@ -92,9 +92,9 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 ## Objetivos de la semana
 
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
-- [ ] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+- [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
 - [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
-- [ ] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+- [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 - [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 - [x] Resolver los problemas que surjan en los primeros despliegues.
 - [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
@@ -103,7 +103,7 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 - [x] Darse de alta y probar diferentes servicios PaaS.
 - [x] Instalar los *toolbelt* de los diferentes servicios para poder manejarlos con facilidad.
-- [ ] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
+- [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con `push`.
 - [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de *tags* para releases...
 
 ### Ejercicios Tema3
