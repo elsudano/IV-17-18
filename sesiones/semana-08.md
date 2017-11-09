@@ -1,4 +1,4 @@
-# Séptima semana, comienza el 9 de Noviembre
+# Séptima 8, comienza el 9 de Noviembre
 
 
 ## Objetivos de la semana
@@ -27,4 +27,4 @@ La entrega de la práctica será el *23 de noviembre*.
 
 ## Siguiente semana
 
-[Octava semana](08-semana.md)
+[Novena semana](semana-09.md)
