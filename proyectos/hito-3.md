@@ -23,7 +23,7 @@ Añade debajo enlaces a tu proyecto
 | HERNANDEZ CAÑAVERAS, JUAN|[Proyecto](https://github.com/MagicJHC10/Proyecto-IV) | 0.2|
 | LIÑAN VILLAFRANCA, LUIS|[bot-calendario-telegram](https://github.com/lulivi/bot-calendario-telegram)|0.2|
 | LOPEZ ACEITUNO, MANUEL| | |
-| MARTIN QUIROS, JUAN ANTONIO| | |
+| MARTIN QUIROS, JUAN ANTONIO|[ProyectoIV](https://github.com/marquirj/ProyectoSkull) | 0.2 |
 | MEDINA FACAL, RAFAEL| [ProyectoIV](https://github.com/Medfac9/Proyecto_IV) | 0.2 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.3 |
 | MOLINA GOMEZ, PABLO| [Repo_Proyecto](https://github.com/pmolinag/proyecto) | 0.3 |
