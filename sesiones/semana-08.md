@@ -9,8 +9,9 @@
 
 ## Otros objetivos
 
+1. Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
 1. Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
-1. Instalar docker y trabajar con él.
+1. Instalar Docker y trabajar con él.
 2. Usar imágenes de docker publicadas. 
 
 
