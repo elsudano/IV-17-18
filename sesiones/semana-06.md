@@ -32,4 +32,4 @@ fecha de entrega es el **7 de noviembre**.
 
 ## Siguiente semana
 
-[Séptima semana](7-semana.md)
+[Séptima semana](07-semana.md)
