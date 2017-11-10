@@ -29,7 +29,7 @@ MARIO FERNÁNDEZ GÓMEZ
 6. [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 7. [x] Cambiar nombre a fichero de objetivos.
 
-#Hito 2
+# Hito 2
 ## Del 29 de septiembre al 17 de octubre de 2017
 
 1. [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
@@ -45,7 +45,7 @@ MARIO FERNÁNDEZ GÓMEZ
 11. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 12. [X] Comprender el papel de las build tools o herramientas de automatización.
 
-#Hito 3
+# Hito 3
 ## Del 19 de octubre al 9 de noviembre de 2017
 
 1. [X] Terminar la configuración de los sistemas de integración continua.
