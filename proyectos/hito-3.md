@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | CARMONA OLIVA, ALVARO| [ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV)| 0.2|
 | CASADO VERGARA, MANUEL|[Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6 |
+| CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.7 |
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
 | DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 0.9 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.14 |
