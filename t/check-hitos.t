@@ -75,6 +75,17 @@ SKIP: {
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
   }
+
+  if ( $this_hito > 3 ) { # Despliegue en algún lado
+    diag "✔ Comprobando hito 4";
+    my ($deployment_url) = ($README =~ /(?:[Cd]ontenedor.+(https:..\S+)/);
+    diag "Detectado URL de despliegue $deployment_url";
+    my $status = get "$deployment_url/status";
+    isnt( $status, undef, "Despliegue hecho en $deployment_url" );
+    my $status_ref = from_json( $status );
+    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+  }
+
 };
 
 done_testing();
