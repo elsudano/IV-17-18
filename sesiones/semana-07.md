@@ -21,4 +21,4 @@ fecha de entrega es el **7 de noviembre** a las 00:00.
 
 ## Siguiente semana
 
-[Octava semana](08semana--semana.md)
+[Octava semana](semana-08.md)
