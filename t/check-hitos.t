@@ -84,6 +84,7 @@ SKIP: {
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+    isnt( grep( /Dockerfile/, @repo_files), 0, ".travis.yml presente" );
   }
 
 };
