@@ -4,7 +4,6 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| JJ | https://github.com/JJ/tests-python | 
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
