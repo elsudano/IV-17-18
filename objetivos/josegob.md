@@ -78,3 +78,9 @@ jueves a partir de las 12:30 está el Hacklab Granada en la sala de reuniones (o
 * [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 * [X] Documentar y mantener una plataforma virtual.
 * [X] Realizar tareas de administración de infraestructuras virtuales.
+
+## Otros objetivos
+
+* [X] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+* [X] Crear infraestructuras virtuales completas.
+* [X] Comprender los pasos necesarios para la configuración automática de las mismas.
