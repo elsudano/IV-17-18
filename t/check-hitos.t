@@ -84,7 +84,13 @@ SKIP: {
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+    
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
+
+    my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)});
+    diag "Detectado URL de despliegue '$dockerhub_url'";
+    my $dockerhub = get $dockerhub_url;
+    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
 };
