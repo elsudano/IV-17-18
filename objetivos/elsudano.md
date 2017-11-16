@@ -95,3 +95,27 @@ Carlos de la Torre
 ## Objetivos semana del 2 de noviembre al 7 de noviembre de 2017
 - [x] Terminar de desplegar la aplicación
 - [x] Probar la integración continua con los test en Travis
+
+## Objetivos semana del 7 de noviembre al 16 de noviembre de 2017
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+## Otros objetivos
+- [x] Instalar Docker y empezar a trabajar con él.
+- [ ] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+- [x] Usar imágenes de docker publicadas.
+
+## Objetivos semana del 16 de noviembre al 23 de noviembre de 2017
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+## Otros objetivos
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+- [x] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación del cliente.
+- [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+- [ ] Asistir al [seminario de seguridad en APIs REST](https://www.meetup.com/es-ES/Granada-Geek/events/244961544) del próximo lunes. 
