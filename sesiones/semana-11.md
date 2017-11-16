@@ -1,4 +1,4 @@
-# Undécima semana, comienza el 24 de noviembre
+# Undécima semana, comienza el 30 de noviembre
 
 ## Objetivos de la semana
 
@@ -6,18 +6,16 @@
 
 ##Otros objetivos
 
-1. Publicar imágenes de docker. 
-2. Probar imágenes de docker publicadas.
-3. Trabajar con varias imágenes de docker comectadas.
+1. Revisar resultado de la entrega del hito anterior
 
 ## Material para la clase
 
-Continuamos con el tema dedicado a los
-[contenedores](http://jj.github.io/IV/documentos/temas/Contenedores) y
-continuamos con el
-[4º hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.Docker). 
+Continuamos con el tema de
+[uso de sistemas](http://jj.github.io/IV/documentos/temas/Uso_de_sistemas). Se
+continúa con el
+[último hito](http://jj.github.io/IV/documentos/proyecto/5.IaaS). 
 
-La entrega de la práctica será el *1 de diciembre*. 
+La entrega de la práctica será el *21 de diciembre*. 
 
 ## Siguiente semana
 
