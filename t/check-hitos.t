@@ -78,7 +78,7 @@ SKIP: {
 
   if ( $this_hito > 3 ) { # Despliegue en algún lado
     diag "✔ Comprobando hito 4";
-    my ($deployment_url) = ($README =~ /(?:[Cd]ontenedor).+(https:..\S+)/);
+    my ($deployment_url) = ($README =~ /(?:[Cd]ontenedor).+(https:..\S+)\b/);
     diag "Detectado URL de despliegue $deployment_url";
     my $status = get "$deployment_url/status";
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
