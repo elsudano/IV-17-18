@@ -87,8 +87,8 @@ SKIP: {
     
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
 
-    my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)});
-    diag "Detectado URL de despliegue '$dockerhub_url'";
+    my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
+    diag "Detectado URL de Docker Hub '$dockerhub_url'";
     my $dockerhub = get $dockerhub_url;
     like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
