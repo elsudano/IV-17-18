@@ -45,7 +45,8 @@ SKIP: {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
-  if ( $this_hito > 0 ) { # Comprobar milestones y eso 
+  if ( $this_hito > 0 ) { # Comprobar milestones y eso
+    diag "✔ Comprobando hito 1";
     cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
     
     my @closed_issues =  closed_issues($user, $name);
@@ -58,18 +59,40 @@ SKIP: {
   }
   my $README;
   
-  if ( $this_hito > 1 ) { # Comprobar milestones y eso 
+  if ( $this_hito > 1 ) { # Comprobar milestones y eso
+    diag "✔ Comprobando hito 2";
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
     $README =  read_text( "$repo_dir/README.md"),;
     like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
   }
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
+    diag "✔ Comprobando hito 3";
     my ($deployment_url) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment).+(https:..\S+)/);
+    diag "Detectado URL de despliegue $deployment_url";
     my $status = get $deployment_url;
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
-    is_deeply( from_json( $status ), { status => "OK" }, "Status de $deployment_url correcto");
+    my $status_ref = from_json( $status );
+    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
   }
+
+  if ( $this_hito > 3 ) { # Despliegue en algún lado
+    diag "✔ Comprobando hito 4";
+    my ($deployment_url) = ($README =~ /(?:[Cd]ontenedor).+(https:..\S+)/);
+    diag "Detectado URL de despliegue $deployment_url";
+    my $status = get "$deployment_url/status";
+    isnt( $status, undef, "Despliegue hecho en $deployment_url" );
+    my $status_ref = from_json( $status );
+    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+    
+    isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
+
+    my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)});
+    diag "Detectado URL de despliegue '$dockerhub_url'";
+    my $dockerhub = get $dockerhub_url;
+    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
+  }
+
 };
 
 done_testing();
