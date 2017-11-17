@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | CARMONA OLIVA, ALVARO| [ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV)| 0.2|
 | CASADO VERGARA, MANUEL|[Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.6|
+| CASTRO MONTES, GERMAN| [simple API REST](https://github.com/patamimbre/IV_Proyecto)| 0.8 |
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.5 |
 | DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 0.9 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.14 |
@@ -29,7 +29,7 @@ Añade debajo enlaces a tu proyecto
 | MOLINA GOMEZ, PABLO| [Repo_Proyecto](https://github.com/pmolinag/proyecto) | 0.3 |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.4 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
-| MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
+| MURIEL SANCHEZ LAFUENTE, GUILLERMO|[Project X](https://github.com/guillesiesta/ProjectX)| 0.3 |
 | PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.5 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
