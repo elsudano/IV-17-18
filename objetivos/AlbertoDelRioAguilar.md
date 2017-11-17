@@ -69,5 +69,5 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [ ] Comentar problemas comunes con el hito anterior.
 - [X] Poner a punto la instalación de Linux.
 - [X] Usar imágenes de Docker publicadas.
-- [ ] Darse de alta en Zelt e instalar el cliente.
+- [ ] Darse de alta en Zelt e instalar el cliente
 - [ ] Comprobar los servicios de publicación de contenedores de los diferentes servicios en la nube.
