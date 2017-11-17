@@ -65,9 +65,9 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 ## Hito 4
 
 - [X] Instalar Docker y empezar a trabajar con él.
-- [ ] **Ejercicio de crédito adicional.**
+- [X] **Ejercicio de crédito adicional.** [Enlace](https://github.com/berbus/proyectoIV#ampliaci%C3%B3n-de-la-cobertura-de-los-tests)
 - [ ] Comentar problemas comunes con el hito anterior.
 - [X] Poner a punto la instalación de Linux.
 - [X] Usar imágenes de Docker publicadas.
-- [ ] Darse de alta en Zelt e instalar el cliente
+- [ ] Darse de alta en Zelt e instalar el cliente.
 - [ ] Comprobar los servicios de publicación de contenedores de los diferentes servicios en la nube.
