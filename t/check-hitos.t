@@ -78,13 +78,19 @@ SKIP: {
 
   if ( $this_hito > 3 ) { # Despliegue en algún lado
     diag "✔ Comprobando hito 4";
-    my ($deployment_url) = ($README =~ /(?:[Cd]ontenedor).+(https:..\S+)/);
+    my ($deployment_url) = ($README =~ /(?:[Cd]ontenedor).+(https:..\S+)\b/);
     diag "Detectado URL de despliegue $deployment_url";
     my $status = get "$deployment_url/status";
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+    
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
+
+    my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
+    diag "Detectado URL de Docker Hub '$dockerhub_url'";
+    my $dockerhub = get $dockerhub_url;
+    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
 };
