@@ -4,7 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/tfg_ugr) |0.1 |
+| ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/tfg_ugr) |0.2 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| | |
