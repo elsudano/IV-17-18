@@ -28,7 +28,7 @@ Añade debajo enlaces a tu proyecto
 | MENGIBAR RODRIGUEZ, MIRIAM| | |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
-| MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
+| MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
