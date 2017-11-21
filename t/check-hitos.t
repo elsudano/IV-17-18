@@ -71,6 +71,9 @@ SKIP: {
     my ($deployment_url) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment).+(https:..\S+)/);
     diag "Detectado URL de despliegue $deployment_url";
     my $status = get $deployment_url;
+    if ( ! $status ) {
+      $status = get "$deployment_url/status"; # Por si acaso han movido la ruta
+    }
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
