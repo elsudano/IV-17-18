@@ -103,8 +103,6 @@
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Entender las arquitecturas software basadas en contenedores
-- [x] Entender la base del aislamiento de recursos en el sistema operativo.
-- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
 ## Otros objetivos
 
