@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/tfg_ugr) |0.3|
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO|[ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV) |0.1 |
+| CARMONA OLIVA, ALVARO|[ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV) |0.2 |
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.5 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
