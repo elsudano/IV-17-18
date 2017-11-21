@@ -4,7 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| JJ | https://github.com/alvaromgs/proyectoIV-1718
+| JJ | https://github.com/alvaromgs/proyectoIV-1718 | 0.2
 | ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/tfg_ugr) |0.3|
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
