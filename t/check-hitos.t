@@ -62,7 +62,7 @@ SKIP: {
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    $README =  read_text( "$repo_dir/README.md"),;
+    $README =  read_text( "$repo_dir/README.md");
     like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
   }
 
