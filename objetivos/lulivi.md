@@ -58,4 +58,20 @@
 - [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 - [x] Realizar los [ejercicios del tema 3 de teoría](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_3.md).
-- [ ] Realizar lo descrito en teoría para nuestra aplicación.
+- [x] Realizar lo descrito en teoría para nuestra aplicación.
+
+
+# Hito 4
+
+## Semana del 9 al 16 de Noviembre de 2017
+
+- [ ] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [ ] Crear infraestructuras virtuales completas.
+- [ ] Comprender los pasos necesarios para la configuración automática de las mismas.
+- [ ] Realizar algunos ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
+- [ ] Hacerse una cuenta en [Zeit](https://zeit.co/)
+
+## Semana del 16 al 23 de Noviembre de 2017
+
+- [ ] Terminar los ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
+- [ ] Terminar la práctica y realizar el pull requests a JJ
