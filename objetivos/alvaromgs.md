@@ -123,3 +123,33 @@ una aplicación.
 ### Objetivos de la semana
 
 * [X] Elegir un PaaS para llevar a cabo este hito.
+
+## Octava semana, comienza el 9 de Noviembre
+
+### Objetivos de la semana
+
+* [X] Comprender la importancia de los contenedores en el el desarrollo
+   informático actual
+* [X] Entender la base del aislamiento de recursos en el sistema operativo.
+* [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+* [X] Entender las arquitecturas software basadas en contenedores
+
+### Otros objetivos
+
+* [X] Instalar Docker y empezar a trabajar con él.
+* [X] Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+
+## Novena semana, comienza el 16 de Noviembre
+
+### Objetivos de la semana
+
+* [X] Entender la base del aislamiento de recursos en el sistema operativo.
+* [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros objetivos
+
+* [X] Usar imágenes de docker publicadas.
+* [X] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación
+   del cliente.
+* [X] Comprobar los servicios de publicación de contenedores de los
+   diferentes sistemas en la nube.
