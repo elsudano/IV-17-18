@@ -80,10 +80,11 @@
 - [x] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
 
-## Sesión 6 (Semana del 26 de octubre al 6 de noviembre)
+## Sesión 6 y 7 (Semana del 26 de octubre al 6 de noviembre)
 
 - [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
 - [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] Elegir un PaaS para llevar a cabo este hito.
 
 ## Otros objetivos
 
@@ -95,3 +96,23 @@
 - [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Sesión 8 y 9 (Semana del 9 de noviembre al 23 de noviembre)
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+## Otros objetivos
+
+- [x] [Ejercicios Tema 4.](https://github.com/franfermi/Ejercicios_IV)
+- [x] Instalar Docker y empezar a trabajar con él.
+- [x] Mirar ejercicio para crédito adicional
+- [x] Comentar problemas comunes con el hito anterior:
+  -Puertos de Heroku.
+  -Uso de SqLite.
+  -Despliegue desde GitHub.
+  -Despliegue de cosas que no son servicio web.
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+- [x] Usar imágenes de docker publicadas.
