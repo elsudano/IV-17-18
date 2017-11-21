@@ -46,7 +46,7 @@ SKIP: {
   }
 
   if ( $this_hito > 0 ) { # Comprobar milestones y eso
-    diag "✔ Comprobando hito 1";
+    doing("hito 1");
     cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
     
     my @closed_issues =  closed_issues($user, $name);
@@ -60,14 +60,14 @@ SKIP: {
   my $README;
   
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
-    diag "✔ Comprobando hito 2";
+    doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
     $README =  read_text( "$repo_dir/README.md"),;
     like( $README, qr/.Build Status..https:\/\/travis-ci.org\/$user\/$name/, "Está presente el badge de Travis con enlace al repo correcto");
   }
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
-    diag "\n\t✔ Comprobando hito 3";
+    doing("hito 3");
     my ($deployment_url) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment).+(https:..\S+)/);
     diag "Detectado URL de despliegue $deployment_url";
     my $status = get $deployment_url;
@@ -77,8 +77,8 @@ SKIP: {
   }
 
   if ( $this_hito > 3 ) { # Despliegue en algún lado
-    diag "\n\t✔ Comprobando hito 4";
-    my ($deployment_url) = ($README =~ /(?:([Cc]ontenedor|[Cc]ontainer)).+(https:..\S+)\b/);
+    doing("hito 4");
+    my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
     diag "Detectado URL de despliegue $deployment_url";
     my $status = get "$deployment_url/status";
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
@@ -96,6 +96,14 @@ SKIP: {
 };
 
 done_testing();
+
+# Subs -------------------------------------------------------------
+# Antes de cada hito
+sub doing {
+  my $what = shift;
+  diag "\n\t✔ Comprobando $what";
+}
+
 
 sub how_many_milestones {
   my ($user,$repo) = @_;
