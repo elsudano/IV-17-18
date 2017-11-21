@@ -69,7 +69,12 @@ SKIP: {
   if ( $this_hito > 2 ) { # Despliegue en algún lado
     doing("hito 3");
     my ($deployment_url) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment).+(https:..\S+)/);
-    diag "Detectado URL de despliegue $deployment_url";
+     if ( $deployment_url ) {
+      diag "☑ Detectado URL de despliegue $deployment_url";
+    } else {
+      diag "✗ Problemas detectando URL de despliegue";
+    }
+    isnt( $deployment_url, "", "URL de despliegue hito 3");
     my $status = get $deployment_url;
     if ( ! $status ) {
       $status = get "$deployment_url/status"; # Por si acaso han movido la ruta
@@ -82,7 +87,12 @@ SKIP: {
   if ( $this_hito > 3 ) { # Despliegue en algún lado
     doing("hito 4");
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https:..\S+)\b/);
-    diag "Detectado URL de despliegue $deployment_url";
+    if ( $deployment_url ) {
+      diag "☑ Detectado URL de despliegue $deployment_url";
+    } else {
+      diag "✗ Problemas detectando URL de despliegue";
+    }
+    isnt( $deployment_url, "", "URL de despliegue hito 4");
     my $status = get "$deployment_url/status";
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
     my $status_ref = from_json( $status );
