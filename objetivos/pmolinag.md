@@ -12,6 +12,7 @@
 9. [X] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
 10. [X] Vernos las caras.
 11. [X] Darse de alta y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la asignatura.
+12. [x] Asistencia a prácticas.
 
 
 ### OBJETIVOS DE LA SEGUNDA PRACTICA
@@ -44,6 +45,7 @@
 10. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 11. [X] Comprender el papel de las build tools o herramientas de automatización.
 12. [X] [Autoevaluacion2](https://github.com/pmolinag/ejercicios/blob/master/autoevaluacion2.md)
+13. [x] Asistencia a clase de prácticas.
 
 ## OBJETIVOS DE LA CUARTA PRACTICA
 
@@ -58,3 +60,13 @@
 9. [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 10. [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
 11. [X] Resolver los problemas que surjan en los primeros despliegues.
+12. [x] Asistencia a clase de prácticas.
+
+## OBJETIVOS DE LA QUINTA PRACTICA
+1. [x] Instalar Docker, ponerlo a punto (en Linux) y empezar a trabajar con él.
+2. [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+3. [x] Crear infraestructuras virtuales completas.
+4. [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+5. [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+6. [x] Crear infraestructuras virtuales completas.
+7. [x] Asistencia a clase de prácticas.
