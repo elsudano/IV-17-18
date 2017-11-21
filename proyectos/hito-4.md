@@ -35,6 +35,6 @@ Añade debajo enlaces a tu proyecto
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MARTINEZ, CARLOS | | |
 | SANCHEZ MONTES, DAVID| | |
-| TOLEDANO DELGADO, CARLOS| [Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.2 |
+| TOLEDANO DELGADO, CARLOS| [Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.3 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| | |
