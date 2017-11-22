@@ -114,7 +114,7 @@ done_testing();
 # Antes de cada hito
 sub doing {
   my $what = shift;
-  diag "\n\t✔ Comprobando $what";
+  diag "\n\t✔ Comprobando $what\n";
 }
 
 
