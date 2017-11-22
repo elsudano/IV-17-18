@@ -9,7 +9,9 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 
 - [X] Ejercicios del hito 3 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%203/ejercicios3.md))
 
-## Práctica 0
+- [X] Ejercicios del hito 4 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%204/ejercicio4.md))
+
+## Hito 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
 - [X] **Página del repositorio en GitHub Pages** \-> [Página aquí](https://berbus.github.io/proyectoIV/) <\-.
 - [X] Configuración correcta del nombre y correo electrónico para que aparezca en los commits.
@@ -20,7 +22,7 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 - [X] Entender la importacia de metodologías ágiles como SCRUM.
 
-## Práctica 1
+## Hito 1
 - [X] Haber entregado el hito 0.
 - [X] Tener Linux instalado.
 - [X] Manejar de forma básica la línea de órdenes.
@@ -29,7 +31,7 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Haber usado git para hacer check-in en clase.
 - [ ] Revisar algún ejercicio de un compañero.
 
-## Práctica 2
+## Hito 2
 - [X] Entender el conceto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
 - [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
@@ -43,7 +45,7 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [X] Comprender el papel de las build tools o herramientas de automatización.
 
-## Práctica 3
+## Hito 3
 - [X] Terminar la configuración de los sistemas de integración continua.
 - [X] Comprender el nivel plataforma de la infraestructura virtual y sus uso en prueba y producción.
 
@@ -59,3 +61,13 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Resolver los problemas que surjan en los primeros despliegues.
 - [X] Darse de alta y probar diferentes servicios PaaS.
 - [X] Instalar los toolbet de los diferentes puntos de despliegue remoto con push.
+
+## Hito 4
+
+- [X] Instalar Docker y empezar a trabajar con él.
+- [X] **Ejercicio de crédito adicional.** [Enlace](https://github.com/berbus/proyectoIV#ampliaci%C3%B3n-de-la-cobertura-de-los-tests)
+- [ ] Comentar problemas comunes con el hito anterior.
+- [X] Poner a punto la instalación de Linux.
+- [X] Usar imágenes de Docker publicadas.
+- [X] Darse de alta en Zelt e instalar el cliente.
+- [X] Comprobar los servicios de publicación de contenedores de los diferentes servicios en la nube.

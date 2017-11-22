@@ -108,3 +108,29 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ### Ejercicios Tema3
 [Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema3)
+
+# Octava semana, comienza el 9 de Noviembre
+
+
+## Objetivos de la semana
+
+[x] Entender la base del aislamiento de recursos en el sistema operativo.
+[x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+[x] Entender las arquitectura
+
+## Otros objetivos
+
+[x]. Mirar [ejercicio para crédito adicional](https://jj.github.io/IV/documentos/proyecto/3.5.tests)
+[x] Comentar problemas comunes con el hito anterior:
+   [x] Puertos de Heroku.
+   [x] Uso de SqLite.
+   [x] Despliegue desde GitHub.
+   [x] Despliegue de cosas que no son servicio web.
+[x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+[x] Instalar Docker y trabajar con él.
+[x] Usar imágenes de docker publicadas.
+
+[x] Entender la base del aislamiento de recursos en el sistema operativo.
+
+### Ejercicios Tema4
+[Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema4)

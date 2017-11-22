@@ -43,3 +43,18 @@
 - [X] Realizar los ejercicios del de la asignatura correspondientes a la [semana 3](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-03.md)
 - [X] Escribir funciones y testearlas en local en el proyecto personal.
 - [X] Añadir esos tests para que los pase automaticamente Travis.
+
+# Sesión 4
+
+## Semana a partir del 19 de octubre de 2017
+
+### Hito 3
+
+- [X] Entender el concepto de PaaS
+- [X] Crear cuenta en Heroku
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [semana 4](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-04.md)
+- [X] Haber ido al seminario en el que se explicó Hug impartido por JJ
+- [X] Buscar información y entender como funciona Heroku y qué hay que hacer para desplegar nuestra aplicación en python.
+- [X] Buscar información y entender como funciona Flask cómo usarlo.
+- [X] Desplegar la aplicación en Heroku
+

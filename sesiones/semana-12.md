@@ -1,6 +1,6 @@
 #Undécima semana, comienza el 1 de Diciembre
 
-##Objetivos de la semana
+## Objetivos de la semana
 
 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
