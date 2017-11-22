@@ -68,11 +68,11 @@ SKIP: {
 
   if ( $this_hito > 2 ) { # Despliegue en algún lado
     doing("hito 3");
-    my ($deployment_url) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment).+(https:..\S+)/);
+    my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
      if ( $deployment_url ) {
-      diag "☑ Detectado URL de despliegue $deployment_url";
+      diag "☑ Hallado URL de despliegue $deployment_url";
     } else {
-      diag "✗ Problemas detectando URL de despliegue";
+      diag "✗ Problemas extrayendo URL de despliegue";
     }
     isnt( $deployment_url, "", "URL de despliegue hito 3");
     my $status = get $deployment_url;
@@ -114,7 +114,7 @@ done_testing();
 # Antes de cada hito
 sub doing {
   my $what = shift;
-  diag "\n\t✔ Comprobando $what";
+  diag "\n\t✔ Comprobando $what\n";
 }
 
 
