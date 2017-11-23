@@ -152,8 +152,8 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 ## Novena semana, comienza el 16 de Noviembre
 ### Objetivos de la semana
 
-1. [X] Entender la base del aislamiento de recursos en el sistema operativo.
-2. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
 ### Otros objetivos
 
