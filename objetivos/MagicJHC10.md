@@ -175,7 +175,7 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 
 - [X] Publicar imágenes de Docker y entregar la práctica
 - [X] Instalar hipervisores libres y trabajar con ellos.
-- [] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 
 
 
