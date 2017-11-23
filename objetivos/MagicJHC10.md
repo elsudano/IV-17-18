@@ -155,7 +155,7 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 - [X] Entender la base del aislamiento de recursos en el sistema operativo.
 - [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
-### Otros objetivos
+###  Otros objetivos
 
 - [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
 - [X] Instalar docker y trabajar con él.
