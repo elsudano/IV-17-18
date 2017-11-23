@@ -76,7 +76,7 @@ SKIP: {
     }
     isnt( $deployment_url, "", "URL de despliegue hito 3");
     my $status = get $deployment_url;
-    if ( ! $status ) {
+    if ( ! $status || $status =~ /html/ ) {
       $status = get "$deployment_url/status"; # Por si acaso han movido la ruta
     }
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
