@@ -34,7 +34,7 @@ Añade debajo enlaces a tu proyecto
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MARTINEZ, CARLOS | | |
-| SANCHEZ MONTES, DAVID| | |
+| SANCHEZ MONTES, DAVID| [Repositorio](https://github.com/Anixo/ProyectoIV) | 0.2 |
 | TOLEDANO DELGADO, CARLOS| [Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.5 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| | |
