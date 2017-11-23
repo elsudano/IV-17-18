@@ -51,3 +51,26 @@
 3. [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
 4. [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 5. [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+## Objetivos práctica 4
+
+1. [X] Realizar los [ejercicios](https://github.com/Anixo/EjerciciosIV/tree/master/Ejercicios%20Hito%204) del tema.
+2. [X] Mirar ejercicio para crédito adicional: [ejercicio opcional](https://github.com/JJ/IV-17-18/blob/master/proyectos/ejercicio-1.md)
+3. [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+4. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+5. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+6. [X] Entender las arquitecturas software basadas en contenedores
+7. [X] Instalar Docker y empezar a trabajar con él.
+8. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+9. [X] Usar imágenes de docker publicadas.
+10. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+11. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+12. [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+13. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+14. [X] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+15. [X] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+16. [X] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+17. [X] Documentar y mantener una plataforma virtual.
+18. [X] Optimizar aplicaciones sobre plataformas virtuales.
+19. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+20. [X] Realizar tareas de administración en infraestructura virtual.
