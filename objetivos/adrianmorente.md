@@ -57,7 +57,7 @@
 
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
-- [ ] Instalar Docker, ponerlo a punto (en Linux) y empezar a trabajar con él.
+- [x] Instalar Docker, ponerlo a punto (en Linux) y empezar a trabajar con él.
 - [x] Realizar ejercicio para crédito adicional.
 - [x] Entender este [cuarto hito](http://jj.github.io/IV/documentos/proyecto/4.Docker)
-- [ ] Contenedor desplegado. Dockerfile y otros ficheros de despliegue de la aplicación en funcionamiento, incluyendo el usado en el despliegue. Se valorará especialmente que el entorno se pueda descargar con una sola orden de DockerHub.
+- [x] Contenedor desplegado. Dockerfile y otros ficheros de despliegue de la aplicación en funcionamiento, incluyendo el usado en el despliegue. Se valorará especialmente que el entorno se pueda descargar con una sola orden de DockerHub.
