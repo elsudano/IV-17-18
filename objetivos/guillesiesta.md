@@ -25,7 +25,7 @@
 - [X] Leer y entender el guión del hito 1
 - [X] Preguntar dudas sobre hito al profesor
 - [X] Decidir que infraestructura se va a usar
-- [X] Realizar los ejercicios de la asignatura correspondientes a la [semana 2](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-02.md)
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [sesión 2](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/sesion-02.md)
 - [X] Pensar y describir más profundamente de que irá el proyecto y qué se usará para su despliegue
   
 
@@ -40,7 +40,7 @@
 - [X] Haber ido a los seminarios sobre Software Libre y Tests en python impartidos por JJ
 - [X] Buscar información y entender las herramientas para la integración contínua del lenguaje a usar en el proyecto. (python)
 - [X] Buscar información y entender las herramientas "build tools" de python
-- [X] Realizar los ejercicios del de la asignatura correspondientes a la [semana 3](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-03.md)
+- [X] Realizar los ejercicios del de la asignatura correspondientes a la [sesión 3](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/sesion-03.md)
 - [X] Escribir funciones y testearlas en local en el proyecto personal.
 - [X] Añadir esos tests para que los pase automaticamente Travis.
 
@@ -52,9 +52,23 @@
 
 - [X] Entender el concepto de PaaS
 - [X] Crear cuenta en Heroku
-- [X] Realizar los ejercicios de la asignatura correspondientes a la [semana 4](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-04.md)
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [sesión 4](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/sesion-04.md)
 - [X] Haber ido al seminario en el que se explicó Hug impartido por JJ
 - [X] Buscar información y entender como funciona Heroku y qué hay que hacer para desplegar nuestra aplicación en python.
 - [X] Buscar información y entender como funciona Flask cómo usarlo.
 - [X] Desplegar la aplicación en Heroku
+
+# Sesión 5
+
+## Semana a partir del 9 de noviembre de 2017
+
+### Hito 4
+
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [sesión 5](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/sesion-05.md)
+- [X] Entender las arquitecturas software basadas en contenedores
+- [X] Instalar Docker y empezar a trabajar con él.
+- [X] Instalar LXC y empezar a trabajar con él.
+- [ ] Realizar el ejercicio de crédito adicional.
 
