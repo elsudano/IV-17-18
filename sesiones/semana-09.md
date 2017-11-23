@@ -25,7 +25,7 @@
 Continuamos  con el tema dedicado a los
 [contenedores](http://jj.github.io/IV/documentos/temas/Contenedores),
 que tiene material nuevo y
-el el
+el
 [4º hito del proyecto](http://jj.github.io/IV/documentos/proyecto/4.Docker).
 
 ## Siguiente semana
