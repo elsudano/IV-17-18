@@ -14,11 +14,11 @@ Añade debajo enlaces a tu proyecto
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.18 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
-| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 1.1 |
+| DE LA TORRE FANIN, CARLOS| [MiddleWare NextCloud](https://github.com/elsudano/MiddleWare_NextCloud) | 1.0 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.3 |
-| GALLARDO MOLINA, ANDRES JOSE| | |
+| GALLARDO MOLINA, ANDRES JOSE| [ProyectoIV](https://github.com/Maverick94/IV_Proyecto)| 0.7 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.4 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
