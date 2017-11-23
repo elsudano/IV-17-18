@@ -29,3 +29,10 @@
 - [x] Comprender el temario de teoría de esta sesión y realizar la mayoría de ejercicios.
 - [x] Consultar en una tutoría las dudas.
 - [x] Entregar el hito de esta semana.
+
+## Sesión 4 (Semanas del 8 de Nobiembre al 23 de Noviembre de 2017)
+
+- [x] Realizar los objetivos de esta semana.
+- [x] Comprender el temario de teoría de esta sesión.
+- [x] Ayudar a un @adrianmorente con un **pull request**.
+- [x] Entregar el hito de esta semana.

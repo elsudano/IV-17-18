@@ -11,10 +11,10 @@ Añade debajo enlaces a tu proyecto
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.5 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
-| CERVILLA ORTEGA, SERGIO| | |
+| CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.18 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
-| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 1.2 |
+| DE LA TORRE FANIN, CARLOS| [MiddleWare OwnCloud](https://github.com/elsudano/MiddleWare_ownCloud) | 1.1 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.3 |
@@ -27,7 +27,7 @@ Añade debajo enlaces a tu proyecto
 | MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.1 |
 | MENGIBAR RODRIGUEZ, MIRIAM| | |
 | MOLINA GOMEZ, PABLO|[proyecto](https://github.com/pmolinag/proyecto)|0.4|
-| MORENTE GABALDON, ADRIAN| | |
+| MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.3|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
