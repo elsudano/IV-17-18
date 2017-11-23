@@ -130,4 +130,55 @@ ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLAC
 
 - [x] Resolver los problemas que se presenten a través de Telegram y entregar el hito el 7 de noviembre a las 00:00
 
+
+## Octava semana, comienza el 9 de Noviembre
+
+### Objetivos de la semana
+
+- [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [X] Entender la base del aislamiento de recursos en el sistema operativo.
+- [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [X] Entender las arquitecturas software basadas en contenedores
+
+## Otros objetivos
+
+- [X] Instalar Docker y empezar a trabajar con él.
+- [X] Mirar ejercicio para crédito adicional
+- [X] Comentar problemas comunes con el hito anterior:
+- [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+- [X] Usar imágenes de docker publicadas.
+
+
+## Novena semana, comienza el 16 de Noviembre
+### Objetivos de la semana
+
+1. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+2. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros objetivos
+
+- [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [X] Instalar docker y trabajar con él.
+- [X] Usar imágenes de docker publicadas.
+- [X] Si no se ha hecho, alta en Zeit e instalación del cliente.
+- [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+- [X] Asistir al seminario de seguridad en APIs REST del próximo lunes.
+
+
+## Décima semana, comienza el 23 de Noviembre
+### Objetivos de la semana
+
+- [X] Usar docker en una aplicación real.
+- [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+- [X] Publicar imágenes de Docker y entregar la práctica
+- [X] Instalar hipervisores libres y trabajar con ellos.
+- [] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+
+
+
+
 ENLACE A REPOSITORIO PROPIO CON LOS EJERCICIOS DE LA ASIGNATURA DE IV --> [ENLACE](https://github.com/MagicJHC10/Ejercicios/)
