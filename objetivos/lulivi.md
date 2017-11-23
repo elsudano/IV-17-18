@@ -74,4 +74,4 @@
 ## Semana del 16 al 23 de Noviembre de 2017
 
 - [x] Terminar los ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
-- [ ] Terminar la práctica y realizar el pull requests a JJ
+- [x] Terminar la práctica y realizar el pull requests a JJ
