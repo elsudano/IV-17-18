@@ -49,4 +49,6 @@
  - [x] Darse de alta y probar diferentes servicios PaaS.  
  - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
  - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
+   
+ [Enlace ejercicios tema 3](https://github.com/CharlySM/IV-CarlosSanchezMartinez/blob/master/ejerciciosTema3.md)
  
