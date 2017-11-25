@@ -36,3 +36,17 @@
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.  
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.  
 - [x] Comprender el papel de las build tools o herramientas de automatización.  
+  
+ # OBJETIVOS TEMA 3  
+ - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.  
+ - [x] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.  
+ - [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.  
+ - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.  
+ - [x] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.  
+ - [x] Resolver los problemas que surjan en los primeros despliegues.  
+ - [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.  
+ ## OTROS OBJETIVOS  
+ - [x] Darse de alta y probar diferentes servicios PaaS.  
+ - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
+ - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
+ 
