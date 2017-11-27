@@ -9,7 +9,8 @@
 1. Analizar resultados del hito 3 y comentarlo en clase
    1. Separación de bots y APIs.
    2. Falta de tests.
-   3. Pocos servicios adicionales. 
+   3. Pocos servicios adicionales.
+   4. Sobre Dockerfiles y errores habituales.
 1. Instalar hipervisores libres y trabajar con ellos.
 2. Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 3. Seleccionar sistemas operativos e imágenes adecuadas al trabajo
