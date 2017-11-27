@@ -1,9 +1,9 @@
-#Undécima semana, comienza el 1 de Diciembre
+#Undécima semana, comienza el 7 de Diciembre
 
 ## Objetivos de la semana
 
 
-##Otros objetivos
+## Otros objetivos
 
 
 ##Material para la clase

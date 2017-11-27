@@ -4,8 +4,8 @@
 
 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
-##Otros objetivos
-
+## Otros objetivos
+1. Entregar el 4º hito, los que no lo hayan hecho
 1. Analizar resultados del hito 3 y comentarlo en clase
    1. Separación de bots y APIs.
    2. Falta de tests.
