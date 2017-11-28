@@ -13,7 +13,7 @@ Añade debajo enlaces a tu proyecto
 | CASTRO MONTES, GERMAN| | |
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
-| DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://github.com/terceranexus6/copylazyjacker) | 0.1 |
+| DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://github.com/terceranexus6/copylazyjacker) | 0.2 |
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
