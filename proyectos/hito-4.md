@@ -11,7 +11,6 @@ Añade debajo enlaces a tu proyecto
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.5 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
-<<<<<<< HEAD
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://github.com/terceranexus6/copylazyjacker) | 0.3 |
