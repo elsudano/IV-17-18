@@ -134,3 +134,25 @@ etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ### Ejercicios Tema4
 [Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema4)
+
+# Novena semana, comienza el 16 de Noviembre
+
+## Objetivos de la semana
+
+[x] Entender la base del aislamiento de recursos en el sistema operativo.
+[x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+
+## Otros objetivos
+
+[x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+[x] Instalar docker y trabajar con él.
+[x] Usar imágenes de docker publicadas.
+[x] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación
+   del cliente.
+[x] Comprobar los servicios de publicación de contenedores de los
+   diferentes sistemas en la nube.
+[ ] Asistir
+   al
+   [seminario de seguridad en APIs REST](https://www.meetup.com/es-ES/Granada-Geek/events/244961544) del
+   próximo lunes.

@@ -2,11 +2,18 @@
 
 ## Objetivos de la semana
 
-1. Usar `docker` en una aplicación real. 
+1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
-##Otros objetivos
-
-1. Revisar resultado de la entrega del hito anterior
+## Otros objetivos
+1. Entregar el 4º hito, los que no lo hayan hecho
+1. Analizar resultados del hito 3 y comentarlo en clase
+   1. Separación de bots y APIs.
+   2. Falta de tests.
+   3. Pocos servicios adicionales.
+   4. Sobre Dockerfiles y errores habituales.
+1. Instalar hipervisores libres y trabajar con ellos.
+2. Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+3. Seleccionar sistemas operativos e imágenes adecuadas al trabajo
 
 ## Material para la clase
 

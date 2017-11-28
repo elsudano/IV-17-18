@@ -106,6 +106,19 @@
 5. [X]    Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 
 
+[Ejercicios Tema 4 ](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/EjercicioTema4.md)
+
+
+1. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+2. [X] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+3. [X] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+4. [X] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+5. [X] Documentar y mantener una plataforma virtual.
+6. [X] Optimizar aplicaciones sobre plataformas virtuales.
+7. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+8. [X] Realizar tareas de administración en infraestructura virtual.
+
+
 
 ## Sesión 5 Quinta semana, comienza el 19 de octubre
 ### Objetivos de la semana
@@ -124,6 +137,87 @@
 2. [X]    Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 3. [X]    Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 4. [X]    Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+
+
+
+## Sexta semana, comienza el 26 de octubre
+
+### Objetivos de la semana
+
+1. [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+2. [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+### Otros objetivos
+
+1. [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+2. [X] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
+3. [X] Trabajar con los toolbelts de los diferentes PaaS.
+4. [X] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+5. [X] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+6. [X] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+7. [] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+
+
+## Séptima semana, comienza el 2 de noviembre
+
+### Objetivos de la semana
+
+1. [X] Elegir un PaaS para llevar a cabo este hito.
+
+### Otros objetivos
+
+1. [X] Resolver los problemas que se presenten a través de Telegram y entregar el hito el 7 de noviembre a las 00:00
+
+## Octava semana, comienza el 9 de Noviembre
+
+### Objetivos de la semana
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores
+
+## Otros objetivos
+
+1. [X] Instalar Docker y empezar a trabajar con él.
+2. [X] Mirar ejercicio para crédito adicional
+3. [X] Comentar problemas comunes con el hito anterior:
+4. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+5. [X] Usar imágenes de docker publicadas.
+
+
+## Novena semana, comienza el 16 de Noviembre
+### Objetivos de la semana
+
+1. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+2. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+### Otros objetivos
+
+1. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+2. [X] Instalar docker y trabajar con él.
+3. [X] Usar imágenes de docker publicadas.
+4. [X] Si no se ha hecho, alta en Zeit e instalación del cliente.
+5. [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+6. [X] Asistir al seminario de seguridad en APIs REST del próximo lunes.
+
+
+## Décima semana, comienza el 23 de Noviembre
+### Objetivos de la semana
+
+1. [X] Usar docker en una aplicación real.
+2. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+1. [X] Publicar imágenes de Docker y entregar la práctica
+2. [X] Instalar hipervisores libres y trabajar con ellos.
+3. [] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+
+
 
 
 

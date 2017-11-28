@@ -7,7 +7,7 @@
 
 ## Otros objetivos
 
-1. Publicar imágenes de docker y entregar la práctica 
+1. Publicar imágenes de Docker y entregar la práctica 
 1. Instalar hipervisores libres y trabajar con ellos.
 2. Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 

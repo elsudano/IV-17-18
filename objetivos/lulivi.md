@@ -65,13 +65,13 @@
 
 ## Semana del 9 al 16 de Noviembre de 2017
 
-- [ ] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
-- [ ] Crear infraestructuras virtuales completas.
-- [ ] Comprender los pasos necesarios para la configuración automática de las mismas.
-- [ ] Realizar algunos ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
-- [ ] Hacerse una cuenta en [Zeit](https://zeit.co/)
+- [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+- [x] Crear infraestructuras virtuales completas.
+- [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+- [x] Realizar algunos ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
+- [x] Hacerse una cuenta en [Zeit](https://zeit.co/)
 
 ## Semana del 16 al 23 de Noviembre de 2017
 
-- [ ] Terminar los ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
-- [ ] Terminar la práctica y realizar el pull requests a JJ
+- [x] Terminar los ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
+- [x] Terminar la práctica y realizar el pull requests a JJ
