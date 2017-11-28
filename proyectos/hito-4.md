@@ -14,14 +14,8 @@ Añade debajo enlaces a tu proyecto
 <<<<<<< HEAD
 | CERVILLA ORTEGA, SERGIO| | |
 | DEL RIO AGUILAR, ALBERTO| | |
-| DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://github.com/terceranexus6/copylazyjacker) | 0.2 |
+| DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://github.com/terceranexus6/copylazyjacker) | 0.3 |
 | DE LA TORRE FANIN, CARLOS| | |
-=======
-| CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
-| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.18 |
-| DE LA HOZ GARRIDO, PAULA MARIA| | |
-| DE LA TORRE FANIN, CARLOS| [MiddleWare NextCloud](https://github.com/elsudano/MiddleWare_NextCloud) | 1.0 |
->>>>>>> 509538cf6508fc6c8fec101c3dddee67967caac4
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.3 |
