@@ -11,10 +11,10 @@ Añade debajo enlaces a tu proyecto
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.5 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
-| CERVILLA ORTEGA, SERGIO| | |
-| DEL RIO AGUILAR, ALBERTO| | |
-| DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://github.com/terceranexus6/copylazyjacker) | 0.5 |
-| DE LA TORRE FANIN, CARLOS| | |
+| CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
+| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 0.18 |
+| DE LA HOZ GARRIDO, PAULA MARIA| [Proyecto](https://github.com/terceranexus6/copylazyhacker)| 0.6 |
+| DE LA TORRE FANIN, CARLOS| [MiddleWare NextCloud](https://github.com/elsudano/MiddleWare_NextCloud) | 1.0 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.3 |
