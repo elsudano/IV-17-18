@@ -1,5 +1,9 @@
 # Undécima semana, comienza el 30 de noviembre
 
+Aunque la entrega está lejos, conviene ir cubriendo los objetivos de
+la asignatura para que no se acumule al final, este hito es largo y
+complejo. 
+
 ## Objetivos de la semana
 
 1. Comprender el concepto de hipervisor y los diferentes tipos que hay.
@@ -13,7 +17,11 @@
    4. Sobre Dockerfiles y errores habituales.
 1. Instalar hipervisores libres y trabajar con ellos.
 2. Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
-3. Seleccionar sistemas operativos e imágenes adecuadas al trabajo
+3. Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El
+   seleccionar una imagen para desplegar es esencial para que se
+   trabaje de forma eficiente, y en la asignatura de ISE se
+   proporcionan diferentes herramientas para evaluar las prestaciones
+   de diferentes sistemas operativos. 
 
 ## Material para la clase
 
