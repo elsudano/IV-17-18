@@ -61,3 +61,16 @@
 - [x] Realizar ejercicio para crédito adicional.
 - [x] Entender este [cuarto hito](http://jj.github.io/IV/documentos/proyecto/4.Docker)
 - [x] Contenedor desplegado. Dockerfile y otros ficheros de despliegue de la aplicación en funcionamiento, incluyendo el usado en el despliegue. Se valorará especialmente que el entorno se pueda descargar con una sola orden de DockerHub.
+
+
+## Objetivos referentes a la décima semana (23/11/2017)
+
+- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [ ] Documentar y mantener una plataforma virtual.
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [ ] Decidir arquitectura (número de máquinas virtuales que se van a usar, bases de datos, etc.).
+- [ ] Decidir sistemas operativos en base a opiniones o comparaciones particulares.
+- [ ] Utilizar *playbooks* de recetas para Ansible (instalación de paquetes en máquinas virtuales).
+- [ ] Escribir un *Vagrantfile* testeado que provisione las máquinas virtuales e instale las cosas dentro con Ansible.
+- [ ] Desplegar con Flightplan para Node, de forma que con un `flightplan start` pueda *levantar* todos los servicios.
