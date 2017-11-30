@@ -64,3 +64,46 @@
 9. [X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
 10. [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
 11. [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+
+## Objetivos semana 6
+
+1. [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+2. [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+3. [X] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+4. [X] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
+5. [X] Trabajar con los toolbelts de los diferentes PaaS.
+6. [X] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+7. [X] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+8. [X] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+9. [X] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+## Objetivos semana 7
+
+1. [X] Elegir un PaaS para llevar a cabo este hito.
+2. [X] Resolver los problemas que se presenten a través de Telegram y entregar el hito el 7 de noviembre a las 00:00
+
+## Objetivos semana 8
+1. [X] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores
+5. [X] Instalar Docker y empezar a trabajar con él.
+6. [X] Mirar ejercicio para crédito adicional
+7. [X] Comentar problemas comunes con el hito anterior:
+ - Puertos de Heroku.
+ - Uso de SqLite.
+ - Despliegue desde GitHub.
+ - Despliegue de cosas que no son servicio web.
+12. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+13. [X] Usar imágenes de docker publicadas.
+
+## Objetivos semana 9
+
+1. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+2. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+3. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+4. [X] Instalar docker y trabajar con él.
+5. [X] Usar imágenes de docker publicadas.
+6. [X] Si no se ha hecho, alta en Zeit e instalación del cliente.
+7. [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+8. [ ] Asistir al seminario de seguridad en APIs REST del próximo lunes.

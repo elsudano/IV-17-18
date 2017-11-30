@@ -74,4 +74,15 @@
 ## Semana del 16 al 23 de Noviembre de 2017
 
 - [x] Terminar los ejercicios de teoría y subirlos a la [autoevaluación del tema 4](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_4.md)
-- [ ] Terminar la práctica y realizar el pull requests a JJ
+- [x] Terminar la práctica y realizar el pull requests a JJ
+
+
+# Hito 5
+
+## Semana del 30 al 7 de Diciembre de 2017
+
+- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [ ] Documentar y mantener una plataforma virtual.
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [ ] Realizar algunos de los ejercicios de [autoevaluación del tema 5](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_5.md)
