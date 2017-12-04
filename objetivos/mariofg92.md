@@ -29,7 +29,7 @@ MARIO FERNÁNDEZ GÓMEZ
 6. [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 7. [x] Cambiar nombre a fichero de objetivos.
 
-#Hito 2
+# Hito 2
 ## Del 29 de septiembre al 17 de octubre de 2017
 
 1. [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
@@ -44,3 +44,27 @@ MARIO FERNÁNDEZ GÓMEZ
 10. [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 11. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 12. [X] Comprender el papel de las build tools o herramientas de automatización.
+
+# Hito 3
+## Del 19 de octubre al 9 de noviembre de 2017
+
+1. [X] Terminar la configuración de los sistemas de integración continua.
+2. [X] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+3. [X] Entender los errores en la entrega del primer hito del proyecto y corregirlos si es pertinente.
+4. [X] Configurar los toolbelt de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+5. [X] Comprender los mecanismos de despliegue automático.
+6. [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+7. [X] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales.
+8. [X] Elegir uno o varios sistemas para llevar a cabo los ejercicios y proyecto de la asignatura.
+9. [X] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
+10. [X] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
+11. [X] Comprender qué herramientas de desarrollo y lenguajes de programación se pueden usar en diferentes PaaS con facilidad.
+12. [X] Resolver los problemas que surjan en los primeros despliegues.
+13. [ ] Comienzo de la dinámica de proyecto en grupo, para quien lo haya hecho así.
+14. [X] Darse de alta y probar diferentes servicios PaaS.
+15. [X] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.
+16. [X] Prepararse para la gestión de diferentes puntos de despliegue remoto con push.
+17. [X] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+18. [X] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+19. [X] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+20. [X] Elegir un PaaS para llevar a cabo este hito.

@@ -82,3 +82,22 @@ Míriam Mengíbar Rodríguez
 - [x] Añadir ORM a mi proyecto.
 - [x] Actualizar documentación.
 - [x] Realizar [ejercicios tema 3](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema3.md)
+
+# Hito 4
+
+## Objetivos 9 de Noviembre al 23 Noviembre
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+- [x] Si no se ha hecho, alta en Zeit e instalación del cliente.
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+
+## Otros objetivos
+- [x] Instalar Docker y empezar a trabajar con él.
+- [x] Actualizar documentación.
+- [x] Realizar [ejercicios tema 4](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema4.md)

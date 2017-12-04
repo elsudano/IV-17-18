@@ -27,3 +27,11 @@
 5. [ ] Cubrir issues
 6. [ ] Pasar tests
 7. [X] Incluir travis en mi propio proyecto
+
+## Objetivos a cubrir en la sesión (07/11/2017)
+
+1. [X] Crear el contenedor y comprender su uso
+2. [X] Investigar sobre docker
+3. [ ] Actualizar gh-pages
+4. [X] Cubrir issues
+5. [X] Pasar tests

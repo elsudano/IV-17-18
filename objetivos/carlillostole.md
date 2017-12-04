@@ -135,3 +135,67 @@ Importante comienza el hacktoberfest. Buscad issues con la etiqueta hacktoberfes
 
 - [x] Aprender buenas prácticas en entornos con integración y despliegue
    continuo: uso de ramas en el código, uso de *tags* para releases...
+
+   ### Sexta semana, comienza el 26 de octubre
+
+**Objetivos de la semana**
+
+- [x] Probar diferentes PaaS con sus sistemas de despliegue correspondientes.
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+
+**Otros objetivos**
+
+- [x] Continuar con el desarrollo y test de código específico para desplegar en el PaaS.
+- [x] Probar zeit.co, aunque funcione sólo con JavaScript y contenedores. Más adelante se verá su utilidad.
+- [x] Trabajar con los toolbelts de los diferentes PaaS.
+- [x] Hacer pruebas de rendimiento de los servicios web para su posible uso dentro y fuera de la asignatura.
+- [x] Volver a probar herramientas de integración continua para ver cuál funciona mejor con cada PaaS.
+- [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
+- [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
+
+### Séptima semana, comienza el 2 de noviembre
+
+**Objetivos de la semana**
+
+- [x] Elegir un PaaS para llevar a cabo este hito.
+
+**Otros objetivos**
+
+- [x] Resolver los problemas que se presenten a través de Telegram y entregar el hito el 7 de noviembre a las 00:00
+
+### Octava semana, comienza el 9 de Noviembre
+
+**Objetivos de la semana**
+
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+**Otros objetivos**
+
+- [x] Instalar Docker y empezar a trabajar con él.
+- [x] Mirar ejercicio para crédito adicional
+- [x] Comentar problemas comunes con el hito anterior:
+       -Puertos de Heroku.
+       -Uso de SqLite.
+       -Despliegue desde GitHub.
+       -Despliegue de cosas que no son servicio web.
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows    desde hace nada.
+- [x] Usar imágenes de docker publicadas.
+
+### Novena semana, comienza el 16 de Noviembre
+
+**Objetivos de la semana**
+- [x] Haber realizado los ejercicios del TEMA 4: [EjerciciosT4](https://github.com/carlillostole/Ejercicios-IV/blob/master/TEMA4/EjerciciosT4.md)
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
+**Otros objetivos**
+
+- [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+- [x] Instalar docker y trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+- [x] Si no se ha hecho, alta en Zeit e instalación del cliente.
+- [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+- [x] Asistir al seminario de seguridad en APIs REST del próximo lunes.
