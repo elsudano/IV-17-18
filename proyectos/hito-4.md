@@ -33,7 +33,7 @@ Añade debajo enlaces a tu proyecto
 | PELAEZ PRIEGO, ANTONIO JESUS|[Repo](https://github.com/ajpelaez/IV-Proyecto)|0.1|
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
-| SANCHEZ MARTINEZ, CARLOS | [ProyectoIV](https://github.com/CharlySM/Proyecto-IV) | 0.1 |
+| SANCHEZ MARTINEZ, CARLOS | [ProyectoIV](https://github.com/CharlySM/Proyecto-IV) | 0.2 |
 | SANCHEZ MONTES, DAVID| [Repositorio](https://github.com/Anixo/ProyectoIV) | 0.2 |
 | TOLEDANO DELGADO, CARLOS| [Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.5 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
