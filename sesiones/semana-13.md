@@ -5,21 +5,11 @@
 1. Ver las diferencias entre hipervisores y buscar el más adecuado
    para una tarea.
 
-2. Trabajar con proveedores en la nube y apreciar los parecidos y
-   diferencias con los locales. 
 
-3. Entender los conceptos de los servicios en la nube.
-
-4. Entender el concepto de provisionamiento.
 
 ##Otros objetivos
 
-1. Instalar clientes de servicios en la nube.
 
-2. Entender temas de seguridad de la información relacionados con los
-   servicios en la nube.
-
-3. Hacer pruebas de provisionamiento de servicios en la nube. 
 
 ##Material para la clase
 
