@@ -2,7 +2,7 @@
 
 ## Objetivos de la asignatura
 
-* Resolver dudas relativas a la entrega del hito final de la asignatura
+
 
 ## No hay próxima semana
 

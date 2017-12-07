@@ -25,7 +25,7 @@ Conviene ir cubriendo los objetivos de la semana, para que la entrega de la prá
 Tema dedicado a
 [uso de sistemas](http://jj.github.io/IV/documentos/temas/Uso_de_sistemas). Se
 continúa con el 
-[último hito](http://jj.github.io/IV/documentos/proyecto/5.IaaS). 
+[último hito](http://jj.github.io/IV/documentos/proyecto/5.IaaS). Recordatorio: fecha de entrega **21 de diciembre**. 
 
 
 ## Siguiente semana
