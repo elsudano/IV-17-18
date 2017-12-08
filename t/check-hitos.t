@@ -69,19 +69,22 @@ SKIP: {
   if ( $this_hito > 2 ) { # Despliegue en algún lado
     doing("hito 3");
     my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
-     if ( $deployment_url ) {
+    if ( $deployment_url ) {
       diag "☑ Hallado URL de despliegue $deployment_url";
     } else {
       diag "✗ Problemas extrayendo URL de despliegue";
     }
     isnt( $deployment_url, "", "URL de despliegue hito 3");
-    my $status = get $deployment_url;
-    if ( ! $status || $status =~ /html/ ) {
-      $status = get "$deployment_url/status"; # Por si acaso han movido la ruta
+  SKIP: {
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
+      my $status = get $deployment_url;
+      if ( ! $status || $status =~ /html/ ) {
+	$status = get "$deployment_url/status"; # Por si acaso han movido la ruta
+      }
+      isnt( $status, undef, "Despliegue hecho en $deployment_url" );
+      my $status_ref = from_json( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     }
-    isnt( $status, undef, "Despliegue hecho en $deployment_url" );
-    my $status_ref = from_json( $status );
-    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
   }
 
   if ( $this_hito > 3 ) { # Despliegue en algún lado
