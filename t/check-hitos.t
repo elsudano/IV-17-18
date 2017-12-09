@@ -117,7 +117,7 @@ SKIP: {
     } else {
       diag "✗ Problemas detectando IP de despliegue";
     }
-    like( $deployment_url, qr/(heroku|now)/, "Despliegue hecho en IaaS" );
+    unlike( $deployment_url, qr/(heroku|now)/, "Despliegue hecho en IaaS" );
     isnt( $deployment_url, "", "URL de despliegue hito 5");
     check_ip($deployment_url);
     my $status = get "$deployment_url/status";
