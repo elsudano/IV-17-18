@@ -6,6 +6,7 @@ use LWP::Simple;
 use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
+use Term::ANSIColor qw(:constants);
 
 use v5.14; # For say
 
@@ -117,7 +118,7 @@ SKIP: {
     } else {
       diag "✗ Problemas detectando IP de despliegue";
     }
-    unlike( $deployment_url, qr/(heroku|now)/, "Despliegue hecho en IaaS" );
+    unlike( $deployment_url, qr/(heroku|now)/, "Despliegue efectivamente hecho en IaaS" );
     isnt( $deployment_url, "", "URL de despliegue hito 5");
     check_ip($deployment_url);
     my $status = get "$deployment_url/status";
@@ -175,4 +176,12 @@ sub check_ip {
   my $pinger = Net::Ping->new();
   $pinger->port_number(22); # Puerto ssh
   isnt($pinger->ping($ip), 0, "$ip es alcanzable");
+}
+
+sub check {
+  return BOLD.GREEN ."✔ ".RESET.join(" ",@_);
+}
+
+sub fail_x {
+  return BOLD.MAGENTA."✘".RESET.join(" ",@_);
 }
