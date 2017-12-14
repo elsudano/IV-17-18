@@ -18,6 +18,6 @@ Comenzamos con el Tema dedicado a
 [último hito](http://jj.github.io/IV/documentos/proyecto/5.IaaS). Recordatorio: fecha de entrega **21 de diciembre**. 
 
 
-##Siguiente semana
+## Siguiente semana
 
-[Décimo tercera semana](13-semana.md). 
+[Décimocuarta semana](13-semana.md). 
