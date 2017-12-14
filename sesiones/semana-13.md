@@ -1,13 +1,14 @@
-# Duodécima semana, comienza el 15 de Diciembre
+# Décimo tercera semana, comienza el 15 de Diciembre
 
-## Objetivos de la semana
+## Objetivos de la asignatura
 
 1. Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura. 
+2. Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 
 
+## Otros objetivos
 
-##Otros objetivos
-
+* Resolver dudas relativas a la entrega del hito final de la asignatura
 
 
 ## Material para la clase
