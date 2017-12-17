@@ -121,7 +121,7 @@ SKIP: {
     unlike( $deployment_url, qr/(heroku|now)/, "Despliegue efectivamente hecho en IaaS" );
     isnt( $deployment_url, "", "URL de despliegue hito 5");
     check_ip($deployment_url);
-    my $status = get "$deployment_url/status";
+    my $status = get "http://$deployment_url/status";
     isnt( $status, undef, "Despliegue correcto en $deployment_url" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
