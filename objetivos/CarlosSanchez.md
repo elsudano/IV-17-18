@@ -50,5 +50,28 @@
  - [x] Instalar los toolbelt de los diferentes servicios para poder manejarlos con facilidad.  
  - [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...  
    
- [Enlace ejercicios tema 3](https://github.com/CharlySM/IV-CarlosSanchezMartinez/blob/master/ejerciciosTema3.md)
+ [Enlace ejercicios tema 3](https://github.com/CharlySM/IV-CarlosSanchezMartinez/blob/master/ejerciciosTema3.md)  
+   
+   # OBJETIVOS TEMA 4  
+     
+   ## OBJETIVOS DE LA SEMANA
+     
+   [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.  
+   [x] Entender la base del aislamiento de recursos en el sistema operativo.  
+   [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.  
+   [x] Entender las arquitecturas software basadas en contenedores.  
+     
+   ## OTROS OBJETIVOS  
+     
+   [x] Instalar Docker y empezar a trabajar con él.  
+   [ ] Mirar ejercicio para crédito adicional.  
+   [x] Comentar problemas comunes con el hito anterior:   
+        * Puertos de Heroku.
+        * Uso de SqLite.
+        * Despliegue desde GitHub.
+        * Despliegue de cosas que no son servicio web.  
+   [x] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.  
+   [x] Usar imágenes de docker publicadas.  
+   
+   Enlace ejercicios tema 4 [enlace](https://github.com/CharlySM/IV-CarlosSanchezMartinez/blob/master/EjerciciosTema4.md)  
  
