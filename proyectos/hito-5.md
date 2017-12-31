@@ -7,11 +7,11 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO| | |
+| CARMONA OLIVA, ALVARO|[ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV) |0.7 |
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.3 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
-| CERVILLA ORTEGA, SERGIO| | |
+| CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
 | DE LA TORRE FANIN, CARLOS| | |
@@ -20,12 +20,12 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.3 |
 | GALLARDO MOLINA, ANDRES JOSE| | |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.4 |
-| HERNANDEZ CAÑAVERAS, JUAN| | |
+| HERNANDEZ CAÑAVERAS, JUAN|[Proyecto](https://github.com/MagicJHC10/Proyecto-IV)| 0.6 |
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.4 |
-| MENGIBAR RODRIGUEZ, MIRIAM| | |
+| MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.3 |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
 | MUÑOZ GARCIA, ALVARO| | |
