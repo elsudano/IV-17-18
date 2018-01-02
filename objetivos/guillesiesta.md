@@ -73,7 +73,7 @@
 - [ ] Realizar el ejercicio de crédito adicional.
 
 
-#Sesiones 6 y 7
+# Sesiones 6 y 7
 
 ## Semana a partir del 23 de noviembre de 2017
 
