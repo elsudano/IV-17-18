@@ -124,7 +124,7 @@ SKIP: {
     isnt( $deployment_url, "", "URL de despliegue hito 5");
     check_ip($deployment_url);
     my $status = get "http://$deployment_url/status";
-    isnt( $status, undef, "Despliegue correcto en $deployment_url" );
+    isnt( $status, undef, "Despliegue correcto en $deployment_url/status" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
     
