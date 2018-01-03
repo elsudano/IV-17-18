@@ -97,11 +97,13 @@ SKIP: {
       diag "✗ Problemas detectando URL de despliegue";
     }
     isnt( $deployment_url, "", "URL de despliegue hito 4");
-    my $status = get "$deployment_url/status";
-    isnt( $status, undef, "Despliegue hecho en $deployment_url" );
-    my $status_ref = from_json( $status );
-    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
-    
+  SKIP: {
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 4;
+      my $status = get "$deployment_url/status";
+      isnt( $status, undef, "Despliegue hecho en $deployment_url" );
+      my $status_ref = from_json( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
+    }
     isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
@@ -110,7 +112,7 @@ SKIP: {
     like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado en Docker Hub");
   }
 
-   if ( $this_hito > 3 ) { # Despliegue en algún lado
+   if ( $this_hito > 4 ) { # Despliegue en algún lado
     doing("hito 5");
     my ($deployment_url) = ($README =~ /Despliegue final:\s+(\S+)\b/);
     if ( $deployment_url ) {
