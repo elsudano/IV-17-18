@@ -30,7 +30,7 @@ Añade debajo enlaces a tu proyecto
 | MORENTE GABALDON, ADRIAN| | |
 | MUÑOZ GARCIA, ALVARO| | |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
-| MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.2 |
+| MURIEL SANCHEZ LAFUENTE, GUILLERMO| [ProjectX](https://github.com/guillesiesta/ProjectX) | 0.3 |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
