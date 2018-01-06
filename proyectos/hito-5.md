@@ -4,7 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALCALA MARTINEZ, ANTONIO | | |
+| ALCALA MARTINEZ, ANTONIO |[HitoV](https://github.com/AntonioAlcM/tfg_ugr/) | 0.5 |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO|[ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV) |0.7 |
@@ -18,7 +18,7 @@ Añade debajo enlaces a tu proyecto
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| [ProyectoIV](https://github.com/franfermi/Infraestructura-Virtual_IV) | 0.3 |
-| GALLARDO MOLINA, ANDRES JOSE| | |
+| GALLARDO MOLINA, ANDRES JOSE| [ProyectoIV](https://github.com/Maverick94/IV_Proyecto)| 1.0 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.4 |
 | HERNANDEZ CAÑAVERAS, JUAN|[Proyecto](https://github.com/MagicJHC10/Proyecto-IV)| 0.6 |
 | LIÑAN VILLAFRANCA, LUIS| | |
@@ -26,16 +26,15 @@ Añade debajo enlaces a tu proyecto
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.4 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.3 |
-| MOLINA GOMEZ, PABLO| | |
-| MORENTE GABALDON, ADRIAN| | |
-| MUÑOZ GARCIA, ALVARO| | |
-| MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| MUÑOZ GARCIA, ALVARO| | |
+| MOLINA GOMEZ, PABLO| [Repo](https://github.com/pmolinag/proyecto) |1|
+| MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
+| MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
+| MURIEL SANCHEZ LAFUENTE, GUILLERMO|[ProjectX](https://github.com/guillesiesta/ProjectX) | 0.5 |
 | PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MARTINEZ, CARLOS | | |
-| SANCHEZ MONTES, DAVID| | |
+| SANCHEZ MONTES, DAVID| [ProyectoIV](https://github.com/Anixo/ProyectoIV) | 0.1 |
 | TOLEDANO DELGADO, CARLOS|[Repo](https://github.com/carlillostole/proyectoIV17-18) | 0.1 |
 | TORRES MORENO, FRANCISCO MANUEL| | |
 | VELEZ RUIZ, CRISTIAN| | |
