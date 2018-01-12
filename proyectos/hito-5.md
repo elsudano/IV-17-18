@@ -21,7 +21,7 @@ Añade debajo enlaces a tu proyecto
 | GALLARDO MOLINA, ANDRES JOSE| [ProyectoIV](https://github.com/Maverick94/IV_Proyecto)| 1.0 |
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.4 |
 | HERNANDEZ CAÑAVERAS, JUAN|[Proyecto](https://github.com/MagicJHC10/Proyecto-IV)| 0.6 |
-| LIÑAN VILLAFRANCA, LUIS| | |
+| LIÑAN VILLAFRANCA, LUIS|[bot-calendario-telegram](https://github.com/lulivi/bot-calendario-telegram)|0.3|
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.4 |
@@ -30,7 +30,7 @@ Añade debajo enlaces a tu proyecto
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.2|
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO|[ProjectX](https://github.com/guillesiesta/ProjectX) | 0.5 |
-| PELAEZ PRIEGO, ANTONIO JESUS| | |
+| PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.3 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MARTINEZ, CARLOS | | |
