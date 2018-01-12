@@ -161,17 +161,17 @@ Carlos de la Torre
 
 ## Objetivos semana del 14 de diciembre al 21 de diciembre de 2017
 
-- [ ] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
-- [ ] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 
 ## Otros objetivos
 
-- [ ] Resolver dudas relativas a la entrega del hito final de la asignatura
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
 
 ## Objetivos finales del 21 de diciembre de 2017 al 12 de enero de 2018
 
-- [ ] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
 
 ## Objetivos adicionales
 
-- [ ] Resolver las dudas que surjan con el hito final del proyecto.
+- [x] Resolver las dudas que surjan con el hito final del proyecto.
